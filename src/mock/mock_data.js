@@ -362,42 +362,42 @@ export const mockData = {
           "name": "Fyra.im",
           "url": "https://fyra.im/",
           "description": "",
-          "icon": ""
+          "icon": "https://fyra.im/assets/icon.png"
         },
         {
           "id": "site-1775999198151",
           "name": "cerebras（每日百万）",
           "url": "https://cerebras.ai/",
           "description": "",
-          "icon": ""
+          "icon": "https://cdn.sanity.io/images/e4qjo92p/production/4176e884cf8c14f8c6bcb59fb9f3e332ac90497d-1000x1000.svg?w=512&h=512&fit=max&auto=format"
         },
         {
           "id": "site-1775999236149",
           "name": "openrouter",
           "url": "https://openrouter.ai/",
           "description": "（每日百万）",
-          "icon": ""
+          "icon": "https://openrouter.ai/favicon.ico"
         },
         {
           "id": "site-1775999256549",
           "name": "anyrouter",
           "url": "https://anyrouter.top/console",
           "description": "每日百万",
-          "icon": ""
+          "icon": "https://anyrouter.top/logo.png"
         },
         {
           "id": "site-1775999382325",
           "name": "kilo",
           "url": "https://kilo.ai/",
           "description": "",
-          "icon": ""
+          "icon": "https://kilo.ai/favicon.ico"
         },
         {
           "id": "site-1775999430748",
           "name": "ollama",
           "url": "https://ollama.com/settings/keys",
           "description": "",
-          "icon": ""
+          "icon": "https://ollama.com/public/ollama.png"
         }
       ]
     },
