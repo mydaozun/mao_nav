@@ -84,7 +84,29 @@ export const mockData = {
       "icon": "🍅",
       "name": "AI小说",
       "order": 3,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1775999929811",
+          "name": "番茄小说下载",
+          "url": "https://tn.1penel.cc.cd/",
+          "description": "",
+          "icon": "https://tn.1penel.cc.cd/assets/favicon.ico"
+        },
+        {
+          "id": "site-1775999978899",
+          "name": "mumu ai小说",
+          "url": "https://1penel.cc.cd/",
+          "description": "",
+          "icon": "https://1penel.cc.cd/logo.svg"
+        },
+        {
+          "id": "site-1776000038755",
+          "name": "daer novel",
+          "url": "http://140.245.42.166:8001/",
+          "description": "",
+          "icon": "http://140.245.42.166:8001/favicon.svg"
+        }
+      ]
     },
     {
       "id": "category-1775997733019",
