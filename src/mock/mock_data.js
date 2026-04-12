@@ -80,10 +80,17 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1775999803115",
+      "icon": "🍅",
+      "name": "AI小说",
+      "order": 3,
+      "sites": []
+    },
+    {
       "id": "category-1775997733019",
       "icon": "💻",
       "name": "zeabur",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "site-1775998192177",
@@ -105,7 +112,7 @@ export const mockData = {
       "id": "category-1775997800091",
       "icon": "☁️",
       "name": "甲骨文云",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "site-1775998278353",
@@ -190,7 +197,7 @@ export const mockData = {
       "id": "category-1775997847234",
       "icon": "📊",
       "name": "vercel",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "site-1775998677503",
@@ -233,7 +240,7 @@ export const mockData = {
       "id": "category-1775997877706",
       "icon": "☁️",
       "name": "cloudflare",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "site-1775998949215",
@@ -297,7 +304,7 @@ export const mockData = {
       "id": "category-1775997931538",
       "icon": "📁",
       "name": "在线数据存储",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "site-1775998817055",
@@ -319,7 +326,7 @@ export const mockData = {
       "id": "category-1775998015474",
       "icon": "🤖",
       "name": "AI token",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "site-1775999155685",
@@ -369,21 +376,21 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 9,
+      "order": 10,
       "sites": []
     },
     {
       "id": "category-1774510899116",
       "icon": "☠️",
       "name": "DDDD",
-      "order": 10,
+      "order": 11,
       "sites": []
     },
     {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "linuxdo",
@@ -412,35 +419,35 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 12,
+      "order": 13,
       "sites": []
     },
     {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 13,
+      "order": 14,
       "sites": []
     },
     {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 14,
+      "order": 15,
       "sites": []
     },
     {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 15,
+      "order": 16,
       "sites": []
     },
     {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 16,
+      "order": 17,
       "sites": [
         {
           "id": "bilibili",
@@ -469,7 +476,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 17,
+      "order": 18,
       "sites": []
     }
   ],
