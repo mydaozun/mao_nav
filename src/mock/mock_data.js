@@ -120,6 +120,27 @@ export const mockData = {
           "url": "https://1penel.cc.cd/",
           "description": "",
           "icon": "https://1penel.cc.cd/logo.svg"
+        },
+        {
+          "id": "site-1775998581863",
+          "name": "1panel面板",
+          "url": "http://140.245.42.166:23371/1panel",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775998608143",
+          "name": "dockge容器管理",
+          "url": "http://140.245.42.166:5001/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775998631576",
+          "name": "wuwayomi漫画",
+          "url": "https://su.52cbg.cn/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -128,7 +149,43 @@ export const mockData = {
       "icon": "📊",
       "name": "vercel",
       "order": 5,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1775998677503",
+          "name": "今日热榜",
+          "url": "https://top.52cbg.cn/",
+          "description": "",
+          "icon": "https://top.52cbg.cn/favicon.ico?favicon.6514833f.ico"
+        },
+        {
+          "id": "site-1775998699728",
+          "name": "91写作",
+          "url": "https://91.1penel.cc.cd/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775998745432",
+          "name": "LunaTV",
+          "url": "https://tv.52cbg.cn/login?redirect=%2F",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775998759111",
+          "name": "MoonTv",
+          "url": "https://moontv.52cbg.cn/login?redirect=%2F",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775998772271",
+          "name": "LunaTv",
+          "url": "https://decotv.52cbg.cn/login?redirect=%2F",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "category-1775997877706",
@@ -142,7 +199,22 @@ export const mockData = {
       "icon": "📁",
       "name": "在线数据存储",
       "order": 7,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1775998817055",
+          "name": "upstash",
+          "url": "https://upstash.com/",
+          "description": "",
+          "icon": "https://upstash.com/icons/favicon-32x32.png"
+        },
+        {
+          "id": "site-1775998829431",
+          "name": "hi168",
+          "url": "https://www.hi168.com/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "category-1775998015474",
