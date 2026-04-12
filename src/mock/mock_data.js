@@ -427,6 +427,13 @@ export const mockData = {
           "url": "https://flymd.llingfei.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/flymd.llingfei.com"
+        },
+        {
+          "id": "site-1776001537856",
+          "name": "云盘挂载器",
+          "url": "https://www.netmount.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.netmount.cn"
         }
       ]
     },
