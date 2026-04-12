@@ -5,15 +5,7 @@ export const mockData = {
       "name": "我的常用",
       "icon": "💥",
       "order": 0,
-      "sites": [
-        {
-          "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "ai-tools",
@@ -92,22 +84,7 @@ export const mockData = {
       "name": "设计工具",
       "icon": "🎨",
       "order": 6,
-      "sites": [
-        {
-          "id": "figma",
-          "name": "Figma",
-          "url": "https://figma.com",
-          "description": "UI设计工具",
-          "icon": "/sitelogo/figma.com.ico"
-        },
-        {
-          "id": "sketch",
-          "name": "Sketch",
-          "url": "https://www.sketch.com",
-          "description": "界面设计工具",
-          "icon": "/sitelogo/www.sketch.com.ico"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "finance",
