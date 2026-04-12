@@ -403,10 +403,18 @@ export const mockData = {
     },
     {
       "id": "dev-tools",
-      "name": "开发工具",
+      "name": "实用工具",
       "icon": "🛠️",
       "order": 10,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1776001370334",
+          "name": "AQBot AI桌面客户端",
+          "url": "https://app.aqbot.top/zh/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/app.aqbot.top"
+        }
+      ]
     },
     {
       "id": "category-1774510899116",
