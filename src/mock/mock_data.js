@@ -148,21 +148,21 @@ export const mockData = {
           "name": "OpenList",
           "url": "https://list.1penel.cc.cd/",
           "description": "",
-          "icon": ""
+          "icon": "https://res.oplist.org/logo/logo.svg"
         },
         {
           "id": "site-1775998295906",
           "name": "cloudreve",
           "url": "https://dreve.1penel.cc.cd/home",
           "description": "",
-          "icon": ""
+          "icon": "https://dr.52cbg.cn/static/img/favicon.ico"
         },
         {
           "id": "site-1775998312464",
           "name": "AstrBot",
           "url": "https://bot.1penel.cc.cd/",
           "description": "",
-          "icon": ""
+          "icon": "https://bot.1penel.cc.cd/favicon.svg"
         },
         {
           "id": "site-1775998333994",
@@ -176,7 +176,7 @@ export const mockData = {
           "name": "Mytube",
           "url": "https://mytube.1penel.cc.cd/",
           "description": "",
-          "icon": "https://mytube.1penel.cc.cd/favicon.ico"
+          "icon": "https://mytube.1penel.cc.cd/favicon.png"
         },
         {
           "id": "site-1775998415330",
@@ -197,7 +197,7 @@ export const mockData = {
           "name": "1panel面板",
           "url": "http://140.245.42.166:23371/1panel",
           "description": "",
-          "icon": ""
+          "icon": "https://1panel.cn/favicon.png"
         },
         {
           "id": "site-1775998608143",
