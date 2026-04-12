@@ -413,6 +413,20 @@ export const mockData = {
           "url": "https://app.aqbot.top/zh/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/app.aqbot.top"
+        },
+        {
+          "id": "site-1776001424414",
+          "name": "R悦读",
+          "url": "https://app.readifyai.com/library",
+          "description": "",
+          "icon": "R"
+        },
+        {
+          "id": "site-1776001469726",
+          "name": "飞速markdown",
+          "url": "https://flymd.llingfei.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/flymd.llingfei.com"
         }
       ]
     },
