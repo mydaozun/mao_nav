@@ -485,39 +485,9 @@ export const mockData = {
       "name": "办公协作",
       "icon": "💼",
       "order": 11,
-      "sites": [
-        {
-          "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
-          "description": "全能工作空间",
-          "icon": "/sitelogo/www.notion.so.ico"
-        },
-        {
-          "id": "slack",
-          "name": "Slack",
-          "url": "https://slack.com",
-          "description": "团队协作工具",
-          "icon": "/sitelogo/slack.com.ico"
-        },
-        {
-          "id": "trello",
-          "name": "Trello",
-          "url": "https://trello.com",
-          "description": "项目管理工具",
-          "icon": "/sitelogo/trello.com.ico"
-        },
-        {
-          "id": "feishu",
-          "name": "飞书",
-          "url": "https://www.feishu.cn",
-          "description": "企业协作平台",
-          "icon": "/sitelogo/www.feishu.cn.ico"
-        }
-      ]
+      "sites": []
     }
   ],
   "title": "cat导航🐱",
-  "search": "baidu",
-  "_fileSha": "fd4b204736dc1ec9532cbb206bf16fb2baac1284"
+  "search": "baidu"
 }
