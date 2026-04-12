@@ -455,6 +455,13 @@ export const mockData = {
           "url": "https://www.youtube.com",
           "description": "视频分享平台",
           "icon": "/sitelogo/www.youtube.com.ico"
+        },
+        {
+          "id": "site-1775999630245",
+          "name": "R悦读",
+          "url": "https://app.readifyai.com/library",
+          "description": "",
+          "icon": "https://app.readifyai.com/favicon.ico"
         }
       ]
     },
