@@ -105,6 +105,13 @@ export const mockData = {
           "url": "http://140.245.42.166:8001/",
           "description": "",
           "icon": "http://140.245.42.166:8001/favicon.svg"
+        },
+        {
+          "id": "site-1776000073139",
+          "name": "91写作",
+          "url": "https://91.1penel.cc.cd/#/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
