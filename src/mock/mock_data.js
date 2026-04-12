@@ -247,14 +247,14 @@ export const mockData = {
           "name": "LunaTV",
           "url": "https://tv.52cbg.cn/login?redirect=%2F",
           "description": "",
-          "icon": ""
+          "icon": "https://tv.52cbg.cn/icons/icon-192x192.png"
         },
         {
           "id": "site-1775998759111",
           "name": "MoonTv",
           "url": "https://moontv.52cbg.cn/login?redirect=%2F",
           "description": "",
-          "icon": ""
+          "icon": "https://moontv.52cbg.cn/icons/icon-192x192.png"
         },
         {
           "id": "site-1775998772271",
