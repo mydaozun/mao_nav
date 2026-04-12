@@ -12,7 +12,15 @@ export const mockData = {
       "name": "在线AI智能",
       "icon": "🤖",
       "order": 1,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1775998249673",
+          "name": "CLI proxy API",
+          "url": "https://api.52cbg.cn/management.html",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "cloud",
@@ -41,14 +49,79 @@ export const mockData = {
       "icon": "💻",
       "name": "zeabur",
       "order": 3,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1775998192177",
+          "name": "cloudreve",
+          "url": "https://dr.52cbg.cn/",
+          "description": "",
+          "icon": "https://dr.52cbg.cn/static/img/favicon.ico"
+        },
+        {
+          "id": "site-1775998218728",
+          "name": "nextcloud",
+          "url": "https://myne.zeabur.app/apps/dashboard/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "category-1775997800091",
       "icon": "☁️",
       "name": "甲骨文云",
       "order": 4,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1775998278353",
+          "name": "OpenList",
+          "url": "https://list.1penel.cc.cd/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775998295906",
+          "name": "cloudreve",
+          "url": "https://dreve.1penel.cc.cd/home",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775998312464",
+          "name": "AstrBot",
+          "url": "https://bot.1penel.cc.cd/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775998333994",
+          "name": "CLI proxy API",
+          "url": "https://api.1penel.cc.cd/management.html",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775998365784",
+          "name": "Mytube",
+          "url": "https://mytube.1penel.cc.cd/",
+          "description": "",
+          "icon": "https://mytube.1penel.cc.cd/favicon.ico"
+        },
+        {
+          "id": "site-1775998415330",
+          "name": "番茄小说下载",
+          "url": "https://tn.1penel.cc.cd/",
+          "description": "",
+          "icon": "https://tn.1penel.cc.cd/assets/favicon.ico"
+        },
+        {
+          "id": "site-1775998472329",
+          "name": "MuMu AI小说",
+          "url": "https://1penel.cc.cd/",
+          "description": "",
+          "icon": "https://1penel.cc.cd/logo.svg"
+        }
+      ]
     },
     {
       "id": "category-1775997847234",
