@@ -7,13 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1774601326477",
-          "name": "猫猫绘图",
-          "url": "https://fast.catsapi.com",
-          "description": "文生图，图生图，文生视频站点",
-          "icon": "https://www.faviconextractor.com/favicon/fast.catsapi.com"
-        },
-        {
           "id": "linux-do",
           "name": "Linux.do",
           "url": "https://linux.do",
@@ -48,13 +41,6 @@ export const mockData = {
           "url": "https://vercel.com",
           "description": "前端部署平台",
           "icon": "/sitelogo/vercel.com.ico"
-        },
-        {
-          "id": "site-1752644060499",
-          "name": "怕死云",
-          "url": "https://www.pasyun.com/",
-          "description": "ipv6机器",
-          "icon": "/sitelogo/www.pasyun.com.ico"
         }
       ]
     },
