@@ -19,6 +19,41 @@ export const mockData = {
           "url": "https://api.52cbg.cn/management.html",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1775999343957",
+          "name": "cto.new",
+          "url": "https://cto.new/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999359685",
+          "name": "arena",
+          "url": "https://arena.ai/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999407125",
+          "name": "AI图像生成器",
+          "url": "https://freeaiimage.net/zh/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999509108",
+          "name": "onyx",
+          "url": "https://onyx.app/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999537717",
+          "name": "trae",
+          "url": "https://solo.trae.cn/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -139,6 +174,13 @@ export const mockData = {
           "id": "site-1775998631576",
           "name": "wuwayomi漫画",
           "url": "https://su.52cbg.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999559700",
+          "name": "daer novel",
+          "url": "http://140.245.42.166:8001/",
           "description": "",
           "icon": ""
         }
@@ -278,7 +320,50 @@ export const mockData = {
       "icon": "🤖",
       "name": "AI token",
       "order": 8,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1775999155685",
+          "name": "Fyra.im",
+          "url": "https://fyra.im/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999198151",
+          "name": "cerebras（每日百万）",
+          "url": "https://cerebras.ai/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999236149",
+          "name": "openrouter",
+          "url": "https://openrouter.ai/",
+          "description": "（每日百万）",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999256549",
+          "name": "anyrouter",
+          "url": "https://anyrouter.top/console",
+          "description": "每日百万",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999382325",
+          "name": "kilo",
+          "url": "https://kilo.ai/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999430748",
+          "name": "ollama",
+          "url": "https://ollama.com/settings/keys",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "dev-tools",
