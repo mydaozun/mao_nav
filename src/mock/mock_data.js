@@ -63,22 +63,7 @@ export const mockData = {
       "name": "开发工具",
       "icon": "🛠️",
       "order": 3,
-      "sites": [
-        {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "site-1774438333579",
-          "name": "freemail",
-          "url": "https://mail.chatgpt.org.uk/",
-          "description": "免费邮箱站点",
-          "icon": "https://www.faviconextractor.com/favicon/mail.chatgpt.org.uk"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "category-1774510899116",
