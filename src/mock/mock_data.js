@@ -9,7 +9,7 @@ export const mockData = {
     },
     {
       "id": "ai-tools",
-      "name": "AI智能",
+      "name": "在线AI智能",
       "icon": "🤖",
       "order": 1,
       "sites": []
@@ -37,24 +37,66 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1775997733019",
+      "icon": "💻",
+      "name": "zeabur",
+      "order": 3,
+      "sites": []
+    },
+    {
+      "id": "category-1775997800091",
+      "icon": "☁️",
+      "name": "甲骨文云",
+      "order": 4,
+      "sites": []
+    },
+    {
+      "id": "category-1775997847234",
+      "icon": "📊",
+      "name": "vercel",
+      "order": 5,
+      "sites": []
+    },
+    {
+      "id": "category-1775997877706",
+      "icon": "☁️",
+      "name": "cloudflare",
+      "order": 6,
+      "sites": []
+    },
+    {
+      "id": "category-1775997931538",
+      "icon": "📁",
+      "name": "在线数据存储",
+      "order": 7,
+      "sites": []
+    },
+    {
+      "id": "category-1775998015474",
+      "icon": "🤖",
+      "name": "AI token",
+      "order": 8,
+      "sites": []
+    },
+    {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 3,
+      "order": 9,
       "sites": []
     },
     {
       "id": "category-1774510899116",
       "icon": "☠️",
       "name": "DDDD",
-      "order": 4,
+      "order": 10,
       "sites": []
     },
     {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 5,
+      "order": 11,
       "sites": [
         {
           "id": "linuxdo",
@@ -83,35 +125,35 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 6,
+      "order": 12,
       "sites": []
     },
     {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 7,
+      "order": 13,
       "sites": []
     },
     {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 8,
+      "order": 14,
       "sites": []
     },
     {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 9,
+      "order": 15,
       "sites": []
     },
     {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 10,
+      "order": 16,
       "sites": [
         {
           "id": "bilibili",
@@ -133,7 +175,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 11,
+      "order": 17,
       "sites": []
     }
   ],
