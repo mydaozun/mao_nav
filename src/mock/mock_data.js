@@ -133,7 +133,7 @@ export const mockData = {
           "name": "nextcloud",
           "url": "https://myne.zeabur.app/apps/dashboard/",
           "description": "",
-          "icon": ""
+          "icon": "https://myne.zeabur.app/apps/theming/favicon/dashboard?v=9c0ff541"
         }
       ]
     },
