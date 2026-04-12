@@ -114,34 +114,6 @@ export const mockData = {
           "icon": "/sitelogo/vercel.com.ico"
         },
         {
-          "id": "aws",
-          "name": "AWS",
-          "url": "https://aws.amazon.com",
-          "description": "亚马逊云服务",
-          "icon": "/sitelogo/aws.amazon.com.ico"
-        },
-        {
-          "id": "aliyun",
-          "name": "阿里云",
-          "url": "https://www.aliyun.com",
-          "description": "阿里巴巴云计算",
-          "icon": "/sitelogo/www.aliyun.com.ico"
-        },
-        {
-          "id": "tencent-cloud",
-          "name": "腾讯云",
-          "url": "https://cloud.tencent.com",
-          "description": "腾讯云计算服务",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
-        },
-        {
-          "id": "huawei-cloud",
-          "name": "华为云",
-          "url": "https://www.huaweicloud.com",
-          "description": "华为云计算服务",
-          "icon": "/sitelogo/www.huaweicloud.com.ico"
-        },
-        {
           "id": "site-1752644060499",
           "name": "怕死云",
           "url": "https://www.pasyun.com/",
