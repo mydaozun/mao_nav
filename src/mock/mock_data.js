@@ -290,7 +290,7 @@ export const mockData = {
           "name": "MiSub",
           "url": "https://sub.52cbg.cn/login",
           "description": "",
-          "icon": ""
+          "icon": "https://sub.52cbg.cn/logo.svg"
         },
         {
           "id": "site-1775999010222",
@@ -318,14 +318,14 @@ export const mockData = {
           "name": "CF网盘",
           "url": "https://pan.52cbg.cn/",
           "description": "",
-          "icon": ""
+          "icon": "https://pan.52cbg.cn/assets/favicon.png"
         },
         {
           "id": "site-1775999081334",
           "name": "WEBdav",
           "url": "https://webdav.52cbg.cn/",
           "description": "",
-          "icon": ""
+          "icon": "https://pan.52cbg.cn/assets/favicon.png"
         }
       ]
     },
