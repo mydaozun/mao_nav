@@ -25,35 +25,35 @@ export const mockData = {
           "name": "cto.new",
           "url": "https://cto.new/",
           "description": "",
-          "icon": ""
+          "icon": "https://cto.new/favicon.ico"
         },
         {
           "id": "site-1775999359685",
           "name": "arena",
           "url": "https://arena.ai/",
           "description": "",
-          "icon": ""
+          "icon": "https://arena.ai/images/favicon-rebrand.svg"
         },
         {
           "id": "site-1775999407125",
           "name": "AI图像生成器",
           "url": "https://freeaiimage.net/zh/",
           "description": "",
-          "icon": ""
+          "icon": "https://freeaiimage.net/icon.png"
         },
         {
           "id": "site-1775999509108",
           "name": "onyx",
           "url": "https://onyx.app/",
           "description": "",
-          "icon": ""
+          "icon": "https://onyx.app/favicon.ico"
         },
         {
           "id": "site-1775999537717",
           "name": "trae",
           "url": "https://solo.trae.cn/",
           "description": "",
-          "icon": ""
+          "icon": "https://lf-cdn.trae.com.cn/obj/trae-com-cn/trae_website_prod_cn/favicon.png"
         }
       ]
     },
