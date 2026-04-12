@@ -192,7 +192,64 @@ export const mockData = {
       "icon": "☁️",
       "name": "cloudflare",
       "order": 6,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1775998949215",
+          "name": "warp优选IP",
+          "url": "https://warp.52cbg.cn/1b168ecb-bbd5-4d9c-a353-d4e9f2899456",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775998962766",
+          "name": "TG图床",
+          "url": "https://tg.52cbg.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775998992294",
+          "name": "MiSub",
+          "url": "https://sub.52cbg.cn/login",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999010222",
+          "name": "One Sub",
+          "url": "https://one.52cbg.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999034895",
+          "name": "CF-workers-SUB",
+          "url": "https://cloud.52cbg.cn/adminroot",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999046918",
+          "name": "利润计算器",
+          "url": "https://gj.52cbg.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999068406",
+          "name": "CF网盘",
+          "url": "https://pan.52cbg.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999081334",
+          "name": "WEBdav",
+          "url": "https://webdav.52cbg.cn/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "category-1775997931538",
