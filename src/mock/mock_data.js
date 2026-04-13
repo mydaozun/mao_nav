@@ -448,6 +448,27 @@ export const mockData = {
           "url": "https://doc.oplist.org/",
           "description": "",
           "icon": "https://doc.oplist.org/favicon.svg"
+        },
+        {
+          "id": "site-1776047816050",
+          "name": "bilifish素材管家",
+          "url": "https://www.billfish.cn/",
+          "description": "",
+          "icon": "https://www.billfish.cn/favicon.ico"
+        },
+        {
+          "id": "site-1776047900689",
+          "name": "创作罐头",
+          "url": "https://www.czgts.cn/",
+          "description": "",
+          "icon": "https://lf-muse.czgts.cn/obj/goofy/pgcfe/muse/web/favicon.ico"
+        },
+        {
+          "id": "site-1776047938929",
+          "name": "PicList",
+          "url": "https://piclist.cn/app",
+          "description": "",
+          "icon": "https://piclist.cn/favicon.png"
         }
       ]
     },
