@@ -347,7 +347,7 @@ export const mockData = {
           "name": "hi168",
           "url": "https://www.hi168.com/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/www.hi168.com"
         }
       ]
     },
