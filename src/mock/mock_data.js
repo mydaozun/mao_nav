@@ -441,6 +441,13 @@ export const mockData = {
           "url": "https://www.netmount.cn/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.netmount.cn"
+        },
+        {
+          "id": "site-1776047690122",
+          "name": "OpenList",
+          "url": "https://doc.oplist.org/",
+          "description": "",
+          "icon": "https://doc.oplist.org/favicon.svg"
         }
       ]
     },
@@ -545,7 +552,6 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "导航dog🐶",
-  "search": "baidu",
-  "_fileSha": "0837c66f68687f90efa44cecbfca60f176228191"
+  "title": "cat导航🐱",
+  "search": "bing"
 }
