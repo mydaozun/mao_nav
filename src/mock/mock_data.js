@@ -484,7 +484,15 @@ export const mockData = {
       "icon": "✈️✈️",
       "name": "H",
       "order": 12,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1776048321807",
+          "name": "hiddify",
+          "url": "https://hiddify.com/",
+          "description": "",
+          "icon": "https://hiddify.com/assets/ic_hiddify.png"
+        }
+      ]
     },
     {
       "id": "community",
