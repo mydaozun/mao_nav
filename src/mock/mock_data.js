@@ -480,10 +480,17 @@ export const mockData = {
       "sites": []
     },
     {
+      "id": "category-1776048233879",
+      "icon": "✈️✈️",
+      "name": "H",
+      "order": 12,
+      "sites": []
+    },
+    {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 12,
+      "order": 13,
       "sites": [
         {
           "id": "linuxdo",
@@ -512,35 +519,35 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 13,
+      "order": 14,
       "sites": []
     },
     {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 14,
+      "order": 15,
       "sites": []
     },
     {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 15,
+      "order": 16,
       "sites": []
     },
     {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 16,
+      "order": 17,
       "sites": []
     },
     {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 17,
+      "order": 18,
       "sites": [
         {
           "id": "bilibili",
@@ -569,7 +576,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 18,
+      "order": 19,
       "sites": []
     }
   ],
