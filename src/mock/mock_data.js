@@ -219,6 +219,13 @@ export const mockData = {
           "url": "http://140.245.42.166:8001/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1776046048874",
+          "name": "OmniRoute",
+          "url": "https://om.1penel.cc.cd/login",
+          "description": "",
+          "icon": "https://om.1penel.cc.cd/favicon.svg"
         }
       ]
     },
