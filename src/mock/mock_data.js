@@ -281,9 +281,9 @@ export const mockData = {
         {
           "id": "site-1775998962766",
           "name": "TG图床",
-          "url": "https://tg.52cbg.cn/",
+          "url": "https://tc.52cbg.cn/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/tc.52cbg.cn"
         },
         {
           "id": "site-1775998992294",
