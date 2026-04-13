@@ -169,7 +169,7 @@ export const mockData = {
           "name": "CLI proxy API",
           "url": "https://api.1penel.cc.cd/management.html",
           "description": "",
-          "icon": ""
+          "icon": "https://avatars.githubusercontent.com/u/233033915?s=64&v=4"
         },
         {
           "id": "site-1775998365784",
