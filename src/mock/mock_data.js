@@ -469,6 +469,13 @@ export const mockData = {
           "url": "https://piclist.cn/app",
           "description": "",
           "icon": "https://piclist.cn/favicon.png"
+        },
+        {
+          "id": "site-1776048575599",
+          "name": "数据库链接",
+          "url": "https://github.com/qishibo/AnotherRedisDesktopManager",
+          "description": "",
+          "icon": "https://camo.githubusercontent.com/95d078811b69f957be425438a9665b37d24f642bc95920b3edb9b0e467cc85d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f7169736869626f2f696d672f6172646d2f3230323431313038313935383239342e706e67"
         }
       ]
     },
