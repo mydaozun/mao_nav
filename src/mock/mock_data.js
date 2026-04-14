@@ -112,6 +112,13 @@ export const mockData = {
           "url": "https://91.1penel.cc.cd/#/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1776161230537",
+          "name": "author",
+          "url": "https://author.1penel.cc.cd/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
