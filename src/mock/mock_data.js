@@ -229,10 +229,10 @@ export const mockData = {
         },
         {
           "id": "site-1775998631576",
-          "name": "wuwayomi漫画",
+          "name": "suwayomi漫画",
           "url": "https://su.52cbg.cn/",
           "description": "",
-          "icon": ""
+          "icon": "https://github.com/Suwayomi/Suwayomi-Server/raw/master/server/src/main/resources/icon/faviconlogo.png"
         },
         {
           "id": "site-1775999559700",
