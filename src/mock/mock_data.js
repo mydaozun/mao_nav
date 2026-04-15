@@ -126,6 +126,13 @@ export const mockData = {
           "url": "http://140.245.42.166:8088/",
           "description": "",
           "icon": "http://140.245.42.166:8088/favicon.ico"
+        },
+        {
+          "id": "site-1776229469929",
+          "name": "Novel-Writing-Assistant",
+          "url": "http://140.245.42.166:5173/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
