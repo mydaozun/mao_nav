@@ -403,7 +403,7 @@ export const mockData = {
           "id": "site-1775999236149",
           "name": "openrouter",
           "url": "https://openrouter.ai/",
-          "description": "（每日百万）",
+          "description": "（部分免费）",
           "icon": "https://openrouter.ai/favicon.ico"
         },
         {
@@ -426,6 +426,27 @@ export const mockData = {
           "url": "https://ollama.com/settings/keys",
           "description": "",
           "icon": "https://ollama.com/public/ollama.png"
+        },
+        {
+          "id": "site-1776255454668",
+          "name": "硅基流动",
+          "url": "https://siliconflow.cn/pricing",
+          "description": "（部分免费）",
+          "icon": "https://siliconflow.cn/favicon.ico"
+        },
+        {
+          "id": "site-1776255533644",
+          "name": "魔搭社区",
+          "url": "https://modelscope.cn/",
+          "description": "（每日千次调用）",
+          "icon": "https://g.alicdn.com/sail-web/maas/2.13.52/favicon/128.ico"
+        },
+        {
+          "id": "site-1776256405466",
+          "name": "英伟达",
+          "url": "https://build.nvidia.com/explore/discover",
+          "description": "部分免费",
+          "icon": "https://www.nvidia.cn/favicon.ico"
         }
       ]
     },
