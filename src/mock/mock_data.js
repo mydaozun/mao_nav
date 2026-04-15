@@ -569,6 +569,13 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
+          "id": "site-1776257520453",
+          "name": "github",
+          "url": "https://github.com/",
+          "description": "",
+          "icon": "https://github.githubassets.com/favicons/favicon.png"
         }
       ]
     },
