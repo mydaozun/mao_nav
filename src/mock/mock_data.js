@@ -111,7 +111,7 @@ export const mockData = {
           "name": "91写作",
           "url": "https://91.1penel.cc.cd/#/",
           "description": "",
-          "icon": ""
+          "icon": "https://mlimli.art/home/icon.png"
         },
         {
           "id": "site-1776161230537",
