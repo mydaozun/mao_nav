@@ -311,7 +311,7 @@ export const mockData = {
           "name": "TG图床",
           "url": "https://tc.52cbg.cn/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/tc.52cbg.cn"
+          "icon": "https://tc.52cbg.cn/favicon.ico"
         },
         {
           "id": "site-1775998992294",
@@ -461,28 +461,28 @@ export const mockData = {
           "name": "AQBot AI桌面客户端",
           "url": "https://app.aqbot.top/zh/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/app.aqbot.top"
+          "icon": "https://app.aqbot.top/favicon.ico"
         },
         {
           "id": "site-1776001424414",
           "name": "R悦读",
           "url": "https://app.readifyai.com/library",
           "description": "",
-          "icon": "R"
+          "icon": "https://app.readifyai.com/logo.png"
         },
         {
           "id": "site-1776001469726",
           "name": "飞速markdown",
           "url": "https://flymd.llingfei.com/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/flymd.llingfei.com"
+          "icon": "https://flymd.llingfei.com/Flymdnew.png"
         },
         {
           "id": "site-1776001537856",
           "name": "云盘挂载器",
           "url": "https://www.netmount.cn/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.netmount.cn"
+          "icon": "https://www.netmount.cn/_next/static/media/color.e0ec2e9a.svg"
         },
         {
           "id": "site-1776047690122",
