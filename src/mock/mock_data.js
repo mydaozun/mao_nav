@@ -633,6 +633,13 @@ export const mockData = {
           "url": "https://app.readifyai.com/library",
           "description": "",
           "icon": "https://app.readifyai.com/favicon.ico"
+        },
+        {
+          "id": "site-1776257660573",
+          "name": "aniyomi",
+          "url": "https://aniyomi.org/",
+          "description": "",
+          "icon": "https://aniyomi.org/favicon.ico"
         }
       ]
     },
