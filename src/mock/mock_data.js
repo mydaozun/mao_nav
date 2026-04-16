@@ -104,7 +104,7 @@ export const mockData = {
           "name": "daer novel",
           "url": "http://140.245.42.166:8001/",
           "description": "",
-          "icon": "http://140.245.42.166:8001/favicon.svg"
+          "icon": "https://raw.githubusercontent.com/yuwangi/daer-novel/main/apps/frontend/public/logo.svg"
         },
         {
           "id": "site-1776000073139",
@@ -125,7 +125,7 @@ export const mockData = {
           "name": "arboris",
           "url": "http://140.245.42.166:8088/",
           "description": "",
-          "icon": "http://140.245.42.166:8088/favicon.ico"
+          "icon": "https://avatars.githubusercontent.com/u/125454309?s=48&v=4"
         },
         {
           "id": "site-1776229469929",
