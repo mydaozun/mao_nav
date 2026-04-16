@@ -133,6 +133,20 @@ export const mockData = {
           "url": "http://140.245.42.166:5173/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1776326541807",
+          "name": "NovelCraft",
+          "url": "https://novel.cutb.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/novel.cutb.cn"
+        },
+        {
+          "id": "site-1776326231863",
+          "name": "马良写作",
+          "url": "https://maliangwriter.com/",
+          "description": "每天免费300积分刷新",
+          "icon": "https://maliangwriter.com/favicon-32.png"
         }
       ]
     },
