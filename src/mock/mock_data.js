@@ -346,7 +346,7 @@ export const mockData = {
           "name": "One Sub",
           "url": "https://one.52cbg.cn/",
           "description": "",
-          "icon": ""
+          "icon": "⚡️"
         },
         {
           "id": "site-1775999034895",
