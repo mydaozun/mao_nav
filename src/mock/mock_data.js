@@ -247,6 +247,13 @@ export const mockData = {
           "url": "https://om.1penel.cc.cd/login",
           "description": "",
           "icon": "https://om.1penel.cc.cd/favicon.svg"
+        },
+        {
+          "id": "site-1776305065267",
+          "name": "docker安装程序自动更新",
+          "url": "https://github.com/containrrr/watchtower",
+          "description": "环境参数：WATCHTOWER_NO_STARTUP_MESSAGE;WATCHTOWER_CLEANUP=true;TZ=Asia/Shanghai\n命令参数：--interval 3600",
+          "icon": "https://containrrr.dev/watchtower/images/favicon.ico"
         }
       ]
     },
