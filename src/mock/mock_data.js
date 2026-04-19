@@ -468,6 +468,13 @@ export const mockData = {
           "url": "https://build.nvidia.com/explore/discover",
           "description": "部分免费",
           "icon": "https://www.nvidia.cn/favicon.ico"
+        },
+        {
+          "id": "site-1776600877461",
+          "name": "gitcode昇腾模型",
+          "url": "https://ai.gitcode.com/serverless-api",
+          "description": "（需每天签到但无限量）",
+          "icon": "https://www.faviconextractor.com/favicon/ai.gitcode.com"
         }
       ]
     },
