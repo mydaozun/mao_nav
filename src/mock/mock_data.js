@@ -633,7 +633,22 @@ export const mockData = {
       "name": "在线工具",
       "icon": "⚙️",
       "order": 17,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1776757939182",
+          "name": "扣子工作流",
+          "url": "https://www.coze.cn/",
+          "description": "",
+          "icon": "https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/coze-space/static/favicon2.ico"
+        },
+        {
+          "id": "site-1776758069030",
+          "name": "朱雀AI检测助手",
+          "url": "https://matrix.tencent.com/ai-detect/ai_gen",
+          "description": "腾讯朱雀AI检测助手",
+          "icon": "https://matrix.tencent.com/ai-detect/img/logo.e36e5a59.png"
+        }
+      ]
     },
     {
       "id": "entertainment",
@@ -680,6 +695,5 @@ export const mockData = {
     }
   ],
   "title": "dog导航🐶",
-  "search": "bing",
-  "_fileSha": "2c1855072196db5ef410d3e7f2f7c0458af6852b"
+  "search": "bing"
 }
