@@ -647,6 +647,20 @@ export const mockData = {
           "url": "https://matrix.tencent.com/ai-detect/ai_gen",
           "description": "腾讯朱雀AI检测助手",
           "icon": "https://matrix.tencent.com/ai-detect/img/logo.e36e5a59.png"
+        },
+        {
+          "id": "site-1776758388917",
+          "name": "comfyUI",
+          "url": "https://www.comfy.org/zh-cn/",
+          "description": "通过在画布上连接节点，直观地构建AI 工作流。 与传统线性用户界面不同，ComfyUI 让您拥有全部的掌控力——在任何时候分支、重新混合和调整工作流的每个部分。",
+          "icon": "https://framerusercontent.com/images/3cNQMWKzIhIrQ5KErBm7dSmbd2w.png"
+        },
+        {
+          "id": "site-1776758471797",
+          "name": "wexflow",
+          "url": "https://wexflow.github.io/?lang=zh",
+          "description": "开源免费的现代化的工作流引擎\n包含跨平台工作流服务器，100 多个内置活动，以及强大的管理面板，用于管理您的工作流。",
+          "icon": "https://wexflow.github.io/favicon.png"
         }
       ]
     },
