@@ -661,6 +661,34 @@ export const mockData = {
           "url": "https://wexflow.github.io/?lang=zh",
           "description": "开源免费的现代化的工作流引擎\n包含跨平台工作流服务器，100 多个内置活动，以及强大的管理面板，用于管理您的工作流。",
           "icon": "https://wexflow.github.io/favicon.png"
+        },
+        {
+          "id": "site-1776758638852",
+          "name": "dify",
+          "url": "https://dify.ai/zh/pricing",
+          "description": "开源的 LLM 应用开发平台，支持本地部署，提供可视化拖拽操作来构建 AI Agent 工作流。",
+          "icon": "https://framerusercontent.com/images/5DjvEqzd8wAijK6D0yeFokYMteE.svg"
+        },
+        {
+          "id": "site-1776758729228",
+          "name": "flow",
+          "url": "https://flow-like.com/zh/",
+          "description": "开源的工作流自动化平台，支持本地部署且对个人永久免费，适合处理数据管道和 AI 智能体。",
+          "icon": "https://flow-like.com/icon.webp"
+        },
+        {
+          "id": "site-1776759242971",
+          "name": "N8N",
+          "url": "https://n8n.io/",
+          "description": "人工智能代理与工作流程",
+          "icon": "https://n8n.io/favicon.ico"
+        },
+        {
+          "id": "site-1776759576986",
+          "name": "make",
+          "url": "https://www.make.com/",
+          "description": "可视化 AI 工作流程自动化，让团队掌控 ",
+          "icon": "https://www.make.com/en/favicon.ico"
         }
       ]
     },
