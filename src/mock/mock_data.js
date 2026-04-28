@@ -612,7 +612,22 @@ export const mockData = {
       "name": "提示词反推",
       "icon": "🎨",
       "order": 14,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1777341511301",
+          "name": "imageprompt提示词反推",
+          "url": "https://imageprompt.org/zh",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/imageprompt.org"
+        },
+        {
+          "id": "site-1777341621197",
+          "name": "米线",
+          "url": "https://www.aimixian.cn/static/tools/prompt-reverse.html",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.aimixian.cn"
+        }
+      ]
     },
     {
       "id": "finance",
