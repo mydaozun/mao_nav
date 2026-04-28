@@ -609,7 +609,7 @@ export const mockData = {
     },
     {
       "id": "design",
-      "name": "设计工具",
+      "name": "提示词反推",
       "icon": "🎨",
       "order": 14,
       "sites": []
