@@ -5,7 +5,15 @@ export const mockData = {
       "name": "我的常用",
       "icon": "💥",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1777464677002",
+          "name": "wireshark",
+          "url": "https://www.wireshark.org/",
+          "description": "开源免费的网络数据拆包工具【有中文】",
+          "icon": "https://www.faviconextractor.com/favicon/www.wireshark.org"
+        }
+      ]
     },
     {
       "id": "ai-tools",
