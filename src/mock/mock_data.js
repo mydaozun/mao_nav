@@ -12,6 +12,13 @@ export const mockData = {
           "url": "https://www.wireshark.org/",
           "description": "开源免费的网络数据拆包工具【有中文】",
           "icon": "https://www.faviconextractor.com/favicon/www.wireshark.org"
+        },
+        {
+          "id": "site-1777705820915",
+          "name": "proxypin",
+          "url": "https://github.com/wanghongenpin/proxypin",
+          "description": "全平台抓包工具",
+          "icon": ""
         }
       ]
     },
