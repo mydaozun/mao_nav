@@ -763,7 +763,36 @@ export const mockData = {
       "name": "办公协作",
       "icon": "💼",
       "order": 19,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1777797265344",
+          "name": "思源笔记",
+          "url": "https://b3log.org/siyuan/?lang=cn",
+          "description": "",
+          "icon": "https://b3log.org/images/brand/siyuan-128.png"
+        },
+        {
+          "id": "site-1777797106817",
+          "name": "Dinox",
+          "url": "https://dinoai.fun/",
+          "description": "在线笔记",
+          "icon": "https://www.faviconextractor.com/favicon/dinoai.fun"
+        },
+        {
+          "id": "site-1777797185800",
+          "name": "幕布",
+          "url": "https://mubu.com/home",
+          "description": "",
+          "icon": "https://assets.mubu.com/favicon.ico"
+        },
+        {
+          "id": "site-1777797357359",
+          "name": "飞速MarkDown",
+          "url": "https://flymd.llingfei.com/",
+          "description": "",
+          "icon": "https://flymd.llingfei.com/Flymdnew.png"
+        }
+      ]
     }
   ],
   "title": "dog导航🐶",
