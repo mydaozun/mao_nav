@@ -153,7 +153,7 @@ export const mockData = {
           "id": "site-1776326541807",
           "name": "NovelCraft",
           "url": "https://novel.cutb.cn/",
-          "description": "",
+          "description": "官网搭建",
           "icon": "https://www.faviconextractor.com/favicon/novel.cutb.cn"
         },
         {
