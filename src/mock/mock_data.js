@@ -139,14 +139,14 @@ export const mockData = {
           "id": "site-1776164740302",
           "name": "arboris",
           "url": "http://140.245.42.166:8088/",
-          "description": "",
+          "description": "拯救小说家",
           "icon": "https://avatars.githubusercontent.com/u/125454309?s=48&v=4"
         },
         {
           "id": "site-1776229469929",
           "name": "Novel-Writing-Assistant",
           "url": "http://140.245.42.166:5173/",
-          "description": "",
+          "description": "AI小说创作工作台",
           "icon": ""
         },
         {
