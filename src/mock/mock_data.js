@@ -791,6 +791,13 @@ export const mockData = {
           "url": "https://flymd.llingfei.com/",
           "description": "",
           "icon": "https://flymd.llingfei.com/Flymdnew.png"
+        },
+        {
+          "id": "site-1777798078189",
+          "name": "blinko",
+          "url": "https://blinko.space/zh-CN",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/blinko.space"
         }
       ]
     }
