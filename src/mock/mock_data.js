@@ -104,49 +104,49 @@ export const mockData = {
           "id": "site-1775999929811",
           "name": "番茄小说下载",
           "url": "https://tn.1penel.cc.cd/",
-          "description": "",
+          "description": "18423",
           "icon": "https://tn.1penel.cc.cd/assets/favicon.ico"
         },
         {
           "id": "site-1775999978899",
           "name": "mumu ai小说",
           "url": "https://1penel.cc.cd/",
-          "description": "",
+          "description": "8000",
           "icon": "https://1penel.cc.cd/logo.svg"
         },
         {
           "id": "site-1776000038755",
           "name": "daer novel",
           "url": "http://140.245.42.166:8001/",
-          "description": "",
+          "description": "8001",
           "icon": "https://raw.githubusercontent.com/yuwangi/daer-novel/main/apps/frontend/public/logo.svg"
         },
         {
           "id": "site-1776000073139",
           "name": "91写作",
           "url": "https://91.1penel.cc.cd/#/",
-          "description": "",
+          "description": "vercel",
           "icon": "https://mlimli.art/home/icon.png"
         },
         {
           "id": "site-1776161230537",
           "name": "author",
           "url": "https://author.1penel.cc.cd/",
-          "description": "",
+          "description": "vercel",
           "icon": ""
         },
         {
           "id": "site-1776164740302",
           "name": "arboris",
           "url": "http://140.245.42.166:8088/",
-          "description": "拯救小说家",
+          "description": "拯救小说家8088",
           "icon": "https://avatars.githubusercontent.com/u/125454309?s=48&v=4"
         },
         {
           "id": "site-1776229469929",
           "name": "Novel-Writing-Assistant",
           "url": "http://140.245.42.166:5173/",
-          "description": "AI小说创作工作台",
+          "description": "AI小说创作工作台5173",
           "icon": ""
         },
         {
