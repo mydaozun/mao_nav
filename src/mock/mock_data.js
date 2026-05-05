@@ -655,6 +655,55 @@ export const mockData = {
           "icon": ""
         },
         {
+          "id": "site-1777971390041",
+          "name": "Novel Claude AI - 小说创作大师",
+          "url": "https://github.com/leenbj/novel-creator-skill",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777971680992",
+          "name": "ainovel-cli",
+          "url": "https://github.com/voocel/ainovel-cli",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777971776762",
+          "name": "柚子写作",
+          "url": "https://github.com/LittleOrange-i/Youzi-Write",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777971844240",
+          "name": "🎨 AI Novel Assistant",
+          "url": "https://github.com/suifengwudong/ai-novel-assistant",
+          "description": "基于智能体的小说创作助手",
+          "icon": ""
+        },
+        {
+          "id": "site-1777971924856",
+          "name": "AI Novel Generator 🤖📖",
+          "url": "https://github.com/xiemobiao/AI_NovelGenerator",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777972016912",
+          "name": "AI Novel Generator",
+          "url": "https://github.com/inyhow/ai-novel-generator",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777972129791",
+          "name": "✍️ Author ",
+          "url": "https://github.com/YuanShiJiLoong/author",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1777968568625",
           "name": "分割",
           "url": "https://github.com",
@@ -667,6 +716,13 @@ export const mockData = {
           "url": "https://github.com/xiamuceer-j/MuMuAINovel",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1777970970866",
+          "name": "AI 智能网文创作系统",
+          "url": "https://github.com/15673312611/AI_NovelCraft-",
+          "description": "AI_NovelCraft-",
+          "icon": "⚡️"
         },
         {
           "id": "site-1777969114679",
@@ -715,6 +771,20 @@ export const mockData = {
           "name": "AI一键生成长篇小说",
           "url": "https://github.com/MaoXiaoYuZ/Long-Novel-GPT",
           "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777971113874",
+          "name": "AI 驱动的小说转视频平台",
+          "url": "https://github.com/qzw881130/AI-NovelFlow",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1777971626473",
+          "name": "Novel Control Station",
+          "url": "https://github.com/jingtai123/Novel-Control-Station-Skill",
+          "description": "把中文长篇小说创作，从一次性生成，升级成可控、可追踪、可持续推进的创作系统。",
           "icon": ""
         }
       ]
