@@ -578,6 +578,13 @@ export const mockData = {
       "order": 11,
       "sites": [
         {
+          "id": "site-1777970666347",
+          "name": "AI 小说创作工作台",
+          "url": "https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1777968720624",
           "name": "novel-writer-style-cn",
           "url": "https://github.com/lsg1103275794/novel-writer-style-cn",
