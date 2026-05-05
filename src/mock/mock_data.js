@@ -122,6 +122,13 @@ export const mockData = {
           "icon": ""
         },
         {
+          "id": "site-1777947799266",
+          "name": "NovelCraft",
+          "url": "http://140.245.42.166:8701",
+          "description": "8701,8080",
+          "icon": ""
+        },
+        {
           "id": "site-1775999978899",
           "name": "mumu ai小说",
           "url": "https://1penel.cc.cd/",
@@ -152,9 +159,9 @@ export const mockData = {
         {
           "id": "site-1776326541807",
           "name": "NovelCraft",
-          "url": "https://novel.cutb.cn/",
-          "description": "官网搭建",
-          "icon": "https://www.faviconextractor.com/favicon/novel.cutb.cn"
+          "url": "https://github.com/15673312611/AI_NovelCraft-",
+          "description": "github官网搭建",
+          "icon": ""
         },
         {
           "id": "site-1776326231863",
