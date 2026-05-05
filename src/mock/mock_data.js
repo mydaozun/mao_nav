@@ -576,7 +576,71 @@ export const mockData = {
       "icon": "☠️",
       "name": "DDDD",
       "order": 11,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1777968720624",
+          "name": "novel-writer-style-cn",
+          "url": "https://github.com/lsg1103275794/novel-writer-style-cn",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777968966992",
+          "name": "chinese-novelist-skill",
+          "url": "https://github.com/PenglongHuang/chinese-novelist-skill",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969182696",
+          "name": "ai-novel-writer",
+          "url": "https://github.com/eliumusk/ai-novel-writer",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969359359",
+          "name": "NovelForge",
+          "url": "https://github.com/RhythmicWave/NovelForge",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969427087",
+          "name": "AI Novel Writer (AI小说家)",
+          "url": "https://github.com/kele-tao/AI_Novel",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777968568625",
+          "name": "分割",
+          "url": "https://github.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1777968587377",
+          "name": "MuMuAINovel",
+          "url": "https://github.com/xiamuceer-j/MuMuAINovel",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969114679",
+          "name": "novel-kit",
+          "url": "https://github.com/t59688/novel-kit",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969257679",
+          "name": "daer-novel",
+          "url": "https://github.com/yuwangi/daer-novel",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "category-1776048233879",
