@@ -613,6 +613,27 @@ export const mockData = {
           "icon": ""
         },
         {
+          "id": "site-1777969744542",
+          "name": "AI 小说工坊",
+          "url": "https://github.com/yangqi1309134997-coder/ai-novel-generator",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969862509",
+          "name": "AI自动创作小说工具",
+          "url": "https://github.com/Crossme0809/gpt-story-genius",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969982710",
+          "name": "自动小说生成工具",
+          "url": "https://github.com/YILING0013/AI_NovelGenerator",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1777968568625",
           "name": "分割",
           "url": "https://github.com",
@@ -637,6 +658,20 @@ export const mockData = {
           "id": "site-1777969257679",
           "name": "daer-novel",
           "url": "https://github.com/yuwangi/daer-novel",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969499350",
+          "name": "马良AI写作",
+          "url": "https://github.com/Deng-m1/MaliangAINovalWriter",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969611838",
+          "name": "91写作",
+          "url": "https://github.com/ponysb/91Writing",
           "description": "",
           "icon": ""
         }
