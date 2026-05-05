@@ -634,6 +634,20 @@ export const mockData = {
           "icon": ""
         },
         {
+          "id": "site-1777970345261",
+          "name": "51码字",
+          "url": "https://github.com/xiaoshengxianjun/51mazi",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777970528947",
+          "name": "AI 小说创作助手",
+          "url": "https://github.com/wfcz10086/AI-automatically-generates-novels",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1777968568625",
           "name": "分割",
           "url": "https://github.com",
@@ -672,6 +686,27 @@ export const mockData = {
           "id": "site-1777969611838",
           "name": "91写作",
           "url": "https://github.com/ponysb/91Writing",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777970306164",
+          "name": "novelwriter",
+          "url": "https://github.com/Hurricane0698/novelwriter",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777970451588",
+          "name": "Arboris-Novel",
+          "url": "https://github.com/t59688/arboris-novel",
+          "description": "面向创作者的写作辅助工具",
+          "icon": ""
+        },
+        {
+          "id": "site-1777970610603",
+          "name": "AI一键生成长篇小说",
+          "url": "https://github.com/MaoXiaoYuZ/Long-Novel-GPT",
           "description": "",
           "icon": ""
         }
