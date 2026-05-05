@@ -704,6 +704,34 @@ export const mockData = {
           "icon": ""
         },
         {
+          "id": "site-1777972460342",
+          "name": "Author (本地版)",
+          "url": "https://github.com/mleafish/author",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777972770869",
+          "name": "AI Novel Editor",
+          "url": "https://github.com/inliver233/Ai-Novel-Editor",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777972841718",
+          "name": "青烛ai-novelist",
+          "url": "https://github.com/FlickeringLamp/ai-novelist",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777973166413",
+          "name": "🎭 MuMuAI小说创作工具",
+          "url": "https://github.com/ddys9621/MuMuAINovel",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1777968568625",
           "name": "分割",
           "url": "https://github.com",
@@ -785,6 +813,20 @@ export const mockData = {
           "name": "Novel Control Station",
           "url": "https://github.com/jingtai123/Novel-Control-Station-Skill",
           "description": "把中文长篇小说创作，从一次性生成，升级成可控、可追踪、可持续推进的创作系统。",
+          "icon": ""
+        },
+        {
+          "id": "site-1777972658870",
+          "name": "AI Novel Assistant (AI 小说创作助手)",
+          "url": "https://github.com/AI-Practical-Lab/ai-novel",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777973099228",
+          "name": "AI小说生成",
+          "url": "https://github.com/xy9144/flutter-novel-main",
+          "description": "",
           "icon": ""
         }
       ]
