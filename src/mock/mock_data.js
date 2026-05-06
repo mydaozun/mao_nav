@@ -582,14 +582,14 @@ export const mockData = {
           "name": "AI 小说创作工作台",
           "url": "https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant",
           "description": "",
-          "icon": ""
+          "icon": "https://avatars.githubusercontent.com/u/191454658?s=48&v=4"
         },
         {
           "id": "site-1777968720624",
           "name": "novel-writer-style-cn",
           "url": "https://github.com/lsg1103275794/novel-writer-style-cn",
           "description": "",
-          "icon": ""
+          "icon": "https://avatars.githubusercontent.com/u/164053805?s=48&v=4"
         },
         {
           "id": "site-1777968966992",
