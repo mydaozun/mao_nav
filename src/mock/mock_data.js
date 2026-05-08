@@ -749,7 +749,7 @@ export const mockData = {
           "id": "site-1777970970866",
           "name": "AI 智能网文创作系统",
           "url": "https://github.com/15673312611/AI_NovelCraft-",
-          "description": "AI_NovelCraft-",
+          "description": "短篇工厂AI_NovelCraft-",
           "icon": "⚡️"
         },
         {
@@ -777,7 +777,7 @@ export const mockData = {
           "id": "site-1777969611838",
           "name": "91写作",
           "url": "https://github.com/ponysb/91Writing",
-          "description": "",
+          "description": "可短篇小说",
           "icon": ""
         },
         {
