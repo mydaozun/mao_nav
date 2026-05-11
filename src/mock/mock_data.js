@@ -1083,16 +1083,58 @@ export const mockData = {
         },
         {
           "id": "site-1778491161098",
-          "name": "qoder",
-          "url": "https://qoder.com/",
-          "description": "阿里开发",
+          "name": "Codeium",
+          "url": "https://codeium.com",
+          "description": "特点：无限免费使用（个人开发者），代码补全速度快、准确，支持40+语言，集成VS Code、JetBrains等主流IDE。",
           "icon": ""
         },
         {
           "id": "site-1778491212202",
-          "name": "qoder网页版本",
-          "url": "https://qoder.com/agents/session/new",
-          "description": "",
+          "name": "通义灵码",
+          "url": "https://lingma.aliyun.com/",
+          "description": "特点：个人免费使用，支持代码智能生成、智能问答、多文件修改、编程智能体。",
+          "icon": ""
+        },
+        {
+          "id": "site-1778503638030",
+          "name": "GitHub Copilot",
+          "url": "https://github.com/features/copilot",
+          "description": "特点：每月2000次补全 + 50次聊天，集成VS Code、JetBrains等。",
+          "icon": ""
+        },
+        {
+          "id": "site-1778503687329",
+          "name": "Continue.dev",
+          "url": "https://www.continue.dev/",
+          "description": "（开源，完全免费）特点：VS Code/JetBrains扩展，支持本地模型（Ollama）或各种API密钥，完全开源可自定。",
+          "icon": ""
+        },
+        {
+          "id": "site-1778503740574",
+          "name": "Amazon Q Developer（AWS）",
+          "url": "https://aws.amazon.com/cn/q/developer/",
+          "description": "特点：免费版无限代码补全 + 每月50次Agent请求。",
+          "icon": ""
+        },
+        {
+          "id": "site-1778503778374",
+          "name": "Gemini Code Assist（Google）",
+          "url": "https://codeassist.google/",
+          "description": "特点：慷慨免费额度（每日数千请求），支持VS Code/JetBrains。",
+          "icon": ""
+        },
+        {
+          "id": "site-1778503814246",
+          "name": "Cursor 免费版",
+          "url": "https://cursor.com/",
+          "description": "特点：基于VS Code的AI IDE，每月2000次补全 + 有限高级请求。",
+          "icon": ""
+        },
+        {
+          "id": "site-1778503882998",
+          "name": "CodeGeeX（智谱AI/清华大学）",
+          "url": "https://codegeex.cn/",
+          "description": "开源，支持中英双语，代码补全+解释",
           "icon": ""
         }
       ]
