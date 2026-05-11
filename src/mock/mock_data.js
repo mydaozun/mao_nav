@@ -1060,6 +1060,42 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/blinko.space"
         }
       ]
+    },
+    {
+      "id": "category-1778491113484",
+      "icon": "💻",
+      "name": "编程软件",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1778491243890",
+          "name": "trae",
+          "url": "https://www.trae.cn/",
+          "description": "字节跳动开发",
+          "icon": ""
+        },
+        {
+          "id": "site-1778491275306",
+          "name": "trae网页版",
+          "url": "https://solo.trae.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1778491161098",
+          "name": "qoder",
+          "url": "https://qoder.com/",
+          "description": "阿里开发",
+          "icon": ""
+        },
+        {
+          "id": "site-1778491212202",
+          "name": "qoder网页版本",
+          "url": "https://qoder.com/agents/session/new",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "dog导航🐶",
