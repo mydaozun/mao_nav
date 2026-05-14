@@ -602,7 +602,7 @@ export const mockData = {
           "id": "site-1778725179042",
           "name": "oh-story-claudecode",
           "url": "https://github.com/worldwonderer/oh-story-claudecode",
-          "description": "",
+          "description": "可在AQBOT安装",
           "icon": ""
         },
         {
