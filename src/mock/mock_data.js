@@ -1178,6 +1178,13 @@ export const mockData = {
           "url": "https://codegeex.cn/",
           "description": "开源，支持中英双语，代码补全+解释",
           "icon": ""
+        },
+        {
+          "id": "site-1778734778386",
+          "name": "/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "開源 AI 編碼代理\n內建免費模型，或連接任意供應商的任意模型，",
+          "icon": ""
         }
       ]
     }
