@@ -592,6 +592,20 @@ export const mockData = {
           "icon": "https://avatars.githubusercontent.com/u/164053805?s=48&v=4"
         },
         {
+          "id": "site-1778725141555",
+          "name": "webnovel-writer-opencode",
+          "url": "https://github.com/lujih/webnovel-writer-opencode",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1778725179042",
+          "name": "oh-story-claudecode",
+          "url": "https://github.com/worldwonderer/oh-story-claudecode",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1777968966992",
           "name": "chinese-novelist-skill",
           "url": "https://github.com/PenglongHuang/chinese-novelist-skill",
