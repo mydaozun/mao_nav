@@ -599,13 +599,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1777968966992",
-          "name": "chinese-novelist-skill",
-          "url": "https://github.com/PenglongHuang/chinese-novelist-skill",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1777969182696",
           "name": "ai-novel-writer",
           "url": "https://github.com/eliumusk/ai-novel-writer",
@@ -658,13 +651,6 @@ export const mockData = {
           "id": "site-1777970528947",
           "name": "AI 小说创作助手",
           "url": "https://github.com/wfcz10086/AI-automatically-generates-novels",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1777971390041",
-          "name": "Novel Claude AI - 小说创作大师",
-          "url": "https://github.com/leenbj/novel-creator-skill",
           "description": "",
           "icon": ""
         },
@@ -763,6 +749,20 @@ export const mockData = {
           "id": "site-1778734058181",
           "name": "webnovel-writer",
           "url": "https://github.com/lingfengQAQ/webnovel-writer",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777968966992",
+          "name": "chinese-novelist-skill",
+          "url": "https://github.com/PenglongHuang/chinese-novelist-skill",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777971390041",
+          "name": "Novel Claude AI - 小说创作大师",
+          "url": "https://github.com/leenbj/novel-creator-skill",
           "description": "",
           "icon": ""
         },
