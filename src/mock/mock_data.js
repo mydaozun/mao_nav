@@ -69,6 +69,13 @@ export const mockData = {
           "url": "https://solo.trae.cn/",
           "description": "",
           "icon": "https://lf-cdn.trae.com.cn/obj/trae-com-cn/trae_website_prod_cn/favicon.png"
+        },
+        {
+          "id": "site-1778772189802",
+          "name": "puter",
+          "url": "https://puter.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
