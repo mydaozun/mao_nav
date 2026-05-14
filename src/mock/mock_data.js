@@ -599,13 +599,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1778725179042",
-          "name": "oh-story-claudecode",
-          "url": "https://github.com/worldwonderer/oh-story-claudecode",
-          "description": "可在AQBOT安装",
-          "icon": ""
-        },
-        {
           "id": "site-1777968966992",
           "name": "chinese-novelist-skill",
           "url": "https://github.com/PenglongHuang/chinese-novelist-skill",
@@ -746,6 +739,34 @@ export const mockData = {
           "icon": ""
         },
         {
+          "id": "site-1778733685238",
+          "name": "SKiLL",
+          "url": "https://github.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1778725179042",
+          "name": "oh-story-claudecode",
+          "url": "https://github.com/worldwonderer/oh-story-claudecode",
+          "description": "可在AQBOT安装",
+          "icon": ""
+        },
+        {
+          "id": "site-1777971626473",
+          "name": "Novel Control Station",
+          "url": "https://github.com/jingtai123/Novel-Control-Station-Skill",
+          "description": "把中文长篇小说创作，从一次性生成，升级成可控、可追踪、可持续推进的创作系统。",
+          "icon": ""
+        },
+        {
+          "id": "site-1778734058181",
+          "name": "webnovel-writer",
+          "url": "https://github.com/lingfengQAQ/webnovel-writer",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1777968568625",
           "name": "分割",
           "url": "https://github.com",
@@ -821,13 +842,6 @@ export const mockData = {
           "url": "https://github.com/qzw881130/AI-NovelFlow",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/github.com"
-        },
-        {
-          "id": "site-1777971626473",
-          "name": "Novel Control Station",
-          "url": "https://github.com/jingtai123/Novel-Control-Station-Skill",
-          "description": "把中文长篇小说创作，从一次性生成，升级成可控、可追踪、可持续推进的创作系统。",
-          "icon": ""
         },
         {
           "id": "site-1777972658870",
