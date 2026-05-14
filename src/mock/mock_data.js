@@ -1181,10 +1181,17 @@ export const mockData = {
         },
         {
           "id": "site-1778734778386",
-          "name": "/opencode",
+          "name": "opencode",
           "url": "https://github.com/anomalyco/opencode",
           "description": "開源 AI 編碼代理\n內建免費模型，或連接任意供應商的任意模型，",
           "icon": ""
+        },
+        {
+          "id": "site-1778769981361",
+          "name": "codex",
+          "url": "https://openai.com/zh-Hans-CN/codex/",
+          "description": "openai旗下产品",
+          "icon": "https://images.ctfassets.net/kftzwdyauwt9/YgXvGzKvVcDvpJGOFyroe/777616dd860276400c9c955688dce373/codex-app.png.png?w=270&q=100&fm=webp"
         }
       ]
     }
