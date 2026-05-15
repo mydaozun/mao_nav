@@ -461,7 +461,14 @@ export const mockData = {
           "name": "anyrouter",
           "url": "https://anyrouter.top/console",
           "description": "每日百万",
-          "icon": "https://anyrouter.top/logo.png"
+          "icon": "https://agentrouter.org/logo.png"
+        },
+        {
+          "id": "site-1778852765346",
+          "name": "agentrouter",
+          "url": "https://agentrouter.org/console",
+          "description": "",
+          "icon": "https://agentrouter.org/logo.png"
         },
         {
           "id": "site-1775999382325",
