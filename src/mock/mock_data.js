@@ -504,6 +504,20 @@ export const mockData = {
           "url": "https://ai.gitcode.com/serverless-api",
           "description": "（需每天签到但无限量）",
           "icon": "https://www.faviconextractor.com/favicon/ai.gitcode.com"
+        },
+        {
+          "id": "site-1778823357351",
+          "name": "TinyFish",
+          "url": "https://agent.tinyfish.ai/api-keys",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1778823635358",
+          "name": "商汤日日新",
+          "url": "https://www.sensenova.cn/token-plan",
+          "description": "",
+          "icon": ""
         }
       ]
     },
