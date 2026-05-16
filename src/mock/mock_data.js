@@ -1220,6 +1220,20 @@ export const mockData = {
           "url": "https://openai.com/zh-Hans-CN/codex/",
           "description": "openai旗下产品",
           "icon": "https://images.ctfassets.net/kftzwdyauwt9/YgXvGzKvVcDvpJGOFyroe/777616dd860276400c9c955688dce373/codex-app.png.png?w=270&q=100&fm=webp"
+        },
+        {
+          "id": "site-1778898256497",
+          "name": "claude",
+          "url": "https://claude.com/download",
+          "description": "claude+cc-switch",
+          "icon": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/689f4a9aff1f63fde75cf733_favicon.png"
+        },
+        {
+          "id": "site-1778898340033",
+          "name": "cc-switch",
+          "url": "https://ccswitch.io/zh/",
+          "description": "claude+cc-switch",
+          "icon": "https://ccswitch.io/assets/cc-switch-logo-BPrI77SG.png"
         }
       ]
     }
