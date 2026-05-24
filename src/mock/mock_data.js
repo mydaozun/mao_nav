@@ -1234,6 +1234,34 @@ export const mockData = {
           "url": "https://ccswitch.io/zh/",
           "description": "claude+cc-switch",
           "icon": "https://ccswitch.io/assets/cc-switch-logo-BPrI77SG.png"
+        },
+        {
+          "id": "site-1779634810417",
+          "name": "哪吒",
+          "url": "https://nezha.hanshutx.com/",
+          "description": "",
+          "icon": "\thttps://nezha.hanshutx.com/logo.png"
+        },
+        {
+          "id": "site-1779634969273",
+          "name": "paseo",
+          "url": "https://paseo.sh/",
+          "description": "",
+          "icon": "https://paseo.sh/logo.svg"
+        },
+        {
+          "id": "site-1779635038256",
+          "name": "sidex",
+          "url": "https://github.com/Sidenai/sidex",
+          "description": "VS Code 是在 Tauri 的基础上重新构建的。架构相同，但体积缩小了 96%。即将进行早期发布。",
+          "icon": ""
+        },
+        {
+          "id": "site-1779635094209",
+          "name": "SQL 客户端",
+          "url": "https://sjjian.github.io/openhare/",
+          "description": "基于人工智能的桌面 SQL 客户端。跨平台使用，采用 Flutter 技术构建。",
+          "icon": "https://sjjian.github.io/openhare/logo.png"
         }
       ]
     }
