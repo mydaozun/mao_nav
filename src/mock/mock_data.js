@@ -913,6 +913,13 @@ export const mockData = {
           "url": "https://hiddify.com/",
           "description": "",
           "icon": "https://hiddify.com/assets/ic_hiddify.png"
+        },
+        {
+          "id": "site-1779706671927",
+          "name": "Zephyr",
+          "url": "https://github.com/Juwan-Hwang/Zephyr",
+          "description": "",
+          "icon": ""
         }
       ]
     },
