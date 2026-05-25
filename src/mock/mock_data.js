@@ -1262,6 +1262,13 @@ export const mockData = {
           "url": "https://sjjian.github.io/openhare/",
           "description": "基于人工智能的桌面 SQL 客户端。跨平台使用，采用 Flutter 技术构建。",
           "icon": "https://sjjian.github.io/openhare/logo.png"
+        },
+        {
+          "id": "site-1779706496512",
+          "name": "multica",
+          "url": "https://multica.ai/",
+          "description": "Multica 是一个开源平台，将编码 智能体 变成真正的队友。分配任务、跟踪进度、积累技能——在一个地方管理你的人类 + 智能体 团队。",
+          "icon": "https://multica.ai/favicon.svg"
         }
       ]
     }
