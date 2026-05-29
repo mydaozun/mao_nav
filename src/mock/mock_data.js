@@ -19,6 +19,13 @@ export const mockData = {
           "url": "https://github.com/wanghongenpin/proxypin",
           "description": "全平台抓包工具",
           "icon": ""
+        },
+        {
+          "id": "site-1780038675588",
+          "name": "DBX",
+          "url": "https://github.com/t8y2/dbx",
+          "description": "数据库连接查看编辑器",
+          "icon": ""
         }
       ]
     },
