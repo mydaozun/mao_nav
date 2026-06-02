@@ -1250,6 +1250,13 @@ export const mockData = {
           "icon": "https://ccswitch.io/assets/cc-switch-logo-BPrI77SG.png"
         },
         {
+          "id": "site-1780400560321",
+          "name": "skill-switch",
+          "url": "https://github.com/DargonLee/skill-switch",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1779634810417",
           "name": "哪吒",
           "url": "https://nezha.hanshutx.com/",
