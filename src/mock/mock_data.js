@@ -26,6 +26,13 @@ export const mockData = {
           "url": "https://github.com/t8y2/dbx",
           "description": "数据库连接查看编辑器",
           "icon": ""
+        },
+        {
+          "id": "site-1780623070772",
+          "name": "clawhub.ai",
+          "url": "https://clawhub.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/clawhub.ai"
         }
       ]
     },
@@ -83,6 +90,13 @@ export const mockData = {
           "url": "https://puter.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1780623111108",
+          "name": "clawhub.ai",
+          "url": "https://clawhub.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/clawhub.ai"
         }
       ]
     },
