@@ -136,6 +136,13 @@ export const mockData = {
           "icon": "https://tn.1penel.cc.cd/assets/favicon.ico"
         },
         {
+          "id": "site-1780709669014",
+          "name": "character-arc",
+          "url": "https://github.com/uu201/character-arc",
+          "description": "有exe",
+          "icon": ""
+        },
+        {
           "id": "site-1776229469929",
           "name": "Novel-Writing-Assistant",
           "url": "http://140.245.42.166:5173/",
@@ -197,6 +204,13 @@ export const mockData = {
           "url": "https://maliangwriter.com/",
           "description": "每天免费300积分刷新",
           "icon": "https://maliangwriter.com/favicon-32.png"
+        },
+        {
+          "id": "site-1780709753622",
+          "name": "novel_web",
+          "url": "https://github.com/BaiSugar/novel_web",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -634,11 +648,25 @@ export const mockData = {
           "icon": "https://avatars.githubusercontent.com/u/191454658?s=48&v=4"
         },
         {
+          "id": "site-1780709928573",
+          "name": "character-arc",
+          "url": "https://github.com/uu201/character-arc",
+          "description": "有exe",
+          "icon": ""
+        },
+        {
           "id": "site-1777968720624",
           "name": "novel-writer-style-cn",
           "url": "https://github.com/lsg1103275794/novel-writer-style-cn",
           "description": "",
           "icon": "https://avatars.githubusercontent.com/u/164053805?s=48&v=4"
+        },
+        {
+          "id": "site-1780709851871",
+          "name": "novel_web",
+          "url": "https://github.com/BaiSugar/novel_web",
+          "description": "",
+          "icon": ""
         },
         {
           "id": "site-1778725141555",
