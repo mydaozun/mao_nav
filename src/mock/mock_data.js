@@ -662,13 +662,6 @@ export const mockData = {
           "icon": "https://avatars.githubusercontent.com/u/164053805?s=48&v=4"
         },
         {
-          "id": "site-1780709851871",
-          "name": "novel_web",
-          "url": "https://github.com/BaiSugar/novel_web",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1778725141555",
           "name": "webnovel-writer-opencode",
           "url": "https://github.com/lujih/webnovel-writer-opencode",
@@ -945,6 +938,13 @@ export const mockData = {
           "id": "site-1778655828382",
           "name": "inkos",
           "url": "https://github.com/Narcooo/inkos",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1780709851871",
+          "name": "novel_web",
+          "url": "https://github.com/BaiSugar/novel_web",
           "description": "",
           "icon": ""
         }
