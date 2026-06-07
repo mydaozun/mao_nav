@@ -439,6 +439,13 @@ export const mockData = {
           "url": "https://webdav.52cbg.cn/",
           "description": "",
           "icon": "https://pan.52cbg.cn/assets/favicon.png"
+        },
+        {
+          "id": "site-1780807731732",
+          "name": "NodeWarden",
+          "url": "https://bit.51sub.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/bit.51sub.cc.cd"
         }
       ]
     },
@@ -560,6 +567,13 @@ export const mockData = {
           "url": "https://www.sensenova.cn/token-plan",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1780807779356",
+          "name": "ecomagent.in",
+          "url": "https://ecomagent.in",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ecomagent.in"
         }
       ]
     },
@@ -1290,6 +1304,20 @@ export const mockData = {
           "url": "https://ccswitch.io/zh/",
           "description": "claude+cc-switch",
           "icon": "https://ccswitch.io/assets/cc-switch-logo-BPrI77SG.png"
+        },
+        {
+          "id": "site-1780807861652",
+          "name": "echobird",
+          "url": "https://echobird.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/echobird.ai"
+        },
+        {
+          "id": "site-1780808243012",
+          "name": "Codex++",
+          "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
+          "description": "",
+          "icon": ""
         },
         {
           "id": "site-1780400560321",
