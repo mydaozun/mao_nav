@@ -1198,6 +1198,13 @@ export const mockData = {
           "url": "https://blinko.space/zh-CN",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/blinko.space"
+        },
+        {
+          "id": "site-1780887464673",
+          "name": "redbox",
+          "url": "https://redbox.ziz.hk/",
+          "description": "小红书创作软件",
+          "icon": "https://www.faviconextractor.com/favicon/redbox.ziz.hk"
         }
       ]
     },
