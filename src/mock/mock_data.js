@@ -1205,6 +1205,13 @@ export const mockData = {
           "url": "https://redbox.ziz.hk/",
           "description": "小红书创作软件",
           "icon": "https://www.faviconextractor.com/favicon/redbox.ziz.hk"
+        },
+        {
+          "id": "site-1780887588512",
+          "name": "小红书AI工具小帮手",
+          "url": "https://mynotehelper.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mynotehelper.com"
         }
       ]
     },
