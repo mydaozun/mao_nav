@@ -662,6 +662,13 @@ export const mockData = {
           "icon": "https://avatars.githubusercontent.com/u/191454658?s=48&v=4"
         },
         {
+          "id": "site-1780969267754",
+          "name": "青幕AI写作软件",
+          "url": "https://github.com/Mochocyang/QMAI",
+          "description": "有exe",
+          "icon": ""
+        },
+        {
           "id": "site-1780709928573",
           "name": "character-arc",
           "url": "https://github.com/uu201/character-arc",
