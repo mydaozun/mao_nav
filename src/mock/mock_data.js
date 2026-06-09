@@ -1334,6 +1334,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/echobird.ai"
         },
         {
+          "id": "site-1780989380442",
+          "name": "cc-desktop-switch",
+          "url": "https://github.com/lonr-6/cc-desktop-switch",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1780808243012",
           "name": "Codex++",
           "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
