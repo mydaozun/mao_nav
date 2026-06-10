@@ -7,6 +7,13 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1781077895748",
+          "name": "52购物商城",
+          "url": "https://52shop.cc.cd",
+          "description": "",
+          "icon": "https://52shop.cc.cd/assets/static/home-n.CLVRX4al.png"
+        },
+        {
           "id": "site-1777464677002",
           "name": "wireshark",
           "url": "https://www.wireshark.org/",
