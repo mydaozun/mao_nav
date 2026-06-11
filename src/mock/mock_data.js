@@ -457,10 +457,95 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1781142215400",
+      "icon": "🌐",
+      "name": "自建网站",
+      "order": 8,
+      "sites": [
+        {
+          "id": "site-1781142297487",
+          "name": "typecho博客",
+          "url": "https://blog.mmaiverse.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781142471726",
+          "name": "免费域名",
+          "url": "https://my.dnshe.com/",
+          "description": ".cc.cd",
+          "icon": "https://www.faviconextractor.com/favicon/my.dnshe.com"
+        },
+        {
+          "id": "site-1781142819405",
+          "name": "52购物商城",
+          "url": "https://52shop.cc.cd",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781142940117",
+          "name": "mumu小说",
+          "url": "https://1penel.cc.cd/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781143034023",
+          "name": "api.1penel",
+          "url": "http://api.1penel.cc.cd/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781143065260",
+          "name": "astrbot机器人",
+          "url": "https://bot.1penel.cc.cd",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781143222731",
+          "name": "dreve",
+          "url": "https://dreve.1penel.cc.cd/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781143292508",
+          "name": "openlist",
+          "url": "https://list.1penel.cc.cd/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781143312060",
+          "name": "mytube",
+          "url": "https://mytube.1penel.cc.cd/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781143381204",
+          "name": "番茄小说下载",
+          "url": "https://tn.1penel.cc.cd/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781143417403",
+          "name": "91写作",
+          "url": "https://91.1penel.cc.cd/",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
       "id": "category-1775997931538",
       "icon": "📁",
       "name": "在线数据存储",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "site-1775998817055",
@@ -482,7 +567,7 @@ export const mockData = {
       "id": "category-1775998015474",
       "icon": "🤖",
       "name": "AI token",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "site-1775999155685",
@@ -588,7 +673,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "实用工具",
       "icon": "🛠️",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "site-1776001370334",
@@ -659,7 +744,7 @@ export const mockData = {
       "id": "category-1774510899116",
       "icon": "☠️",
       "name": "DDDD",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "site-1777970666347",
@@ -982,7 +1067,7 @@ export const mockData = {
       "id": "category-1776048233879",
       "icon": "✈️✈️",
       "name": "H",
-      "order": 12,
+      "order": 13,
       "sites": [
         {
           "id": "site-1776048321807",
@@ -1004,7 +1089,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 13,
+      "order": 14,
       "sites": [
         {
           "id": "linuxdo",
@@ -1040,7 +1125,7 @@ export const mockData = {
       "id": "design",
       "name": "提示词反推",
       "icon": "🎨",
-      "order": 14,
+      "order": 15,
       "sites": [
         {
           "id": "site-1777341511301",
@@ -1062,21 +1147,21 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 15,
+      "order": 16,
       "sites": []
     },
     {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 16,
+      "order": 17,
       "sites": []
     },
     {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 17,
+      "order": 18,
       "sites": [
         {
           "id": "site-1776757939182",
@@ -1140,7 +1225,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 18,
+      "order": 19,
       "sites": [
         {
           "id": "bilibili",
@@ -1176,7 +1261,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 19,
+      "order": 20,
       "sites": [
         {
           "id": "site-1777797265344",
@@ -1233,7 +1318,7 @@ export const mockData = {
       "id": "category-1778491113484",
       "icon": "💻",
       "name": "编程软件",
-      "order": 0,
+      "order": 21,
       "sites": [
         {
           "id": "site-1778491243890",
