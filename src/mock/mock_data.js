@@ -1507,6 +1507,13 @@ export const mockData = {
           "url": "https://mynotehelper.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/mynotehelper.com"
+        },
+        {
+          "id": "site-1781157995703",
+          "name": "章鱼排版",
+          "url": "https://zhangyupaiban.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/zhangyupaiban.com"
         }
       ]
     },
