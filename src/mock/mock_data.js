@@ -104,6 +104,13 @@ export const mockData = {
           "url": "https://clawhub.ai/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/clawhub.ai"
+        },
+        {
+          "id": "site-1781189766527",
+          "name": "monkeycode智能开发平台",
+          "url": "https://monkeycode-ai.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/monkeycode-ai.com"
         }
       ]
     },
