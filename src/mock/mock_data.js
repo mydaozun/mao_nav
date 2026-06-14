@@ -415,14 +415,14 @@ export const mockData = {
         {
           "id": "site-1775998992294",
           "name": "MiSub",
-          "url": "https://sub.52cbg.cn/login",
+          "url": "https://mi.51sub.cc.cd",
           "description": "",
           "icon": "https://sub.52cbg.cn/logo.svg"
         },
         {
           "id": "site-1775999010222",
           "name": "One Sub",
-          "url": "https://one.52cbg.cn/",
+          "url": "https://one.51sub.cc.cd/",
           "description": "",
           "icon": "⚡️"
         },
