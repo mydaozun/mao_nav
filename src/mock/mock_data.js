@@ -1724,8 +1724,71 @@ export const mockData = {
           "id": "site-1781530687284",
           "name": "seedance2.0",
           "url": "https://seed.bytedance.com/zh/seedance2_0",
-          "description": "字节跳动",
+          "description": "字节跳动即梦AI",
           "icon": "https://www.faviconextractor.com/favicon/seed.bytedance.com"
+        },
+        {
+          "id": "site-1781531251051",
+          "name": "可灵",
+          "url": "https://klingai.com/",
+          "description": "快手可灵AI",
+          "icon": ""
+        },
+        {
+          "id": "site-1781531331443",
+          "name": "海螺视频",
+          "url": "https://hailuoai.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/hailuoai.com"
+        },
+        {
+          "id": "site-1781531368938",
+          "name": "VIDU",
+          "url": "https://www.vidu.cn/",
+          "description": "生数科技与清华大学联合开发的AI视频生成工具",
+          "icon": "https://www.faviconextractor.com/favicon/www.vidu.cn"
+        },
+        {
+          "id": "site-1781531417371",
+          "name": "runwayml",
+          "url": "https://runwayml.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/runwayml.com"
+        },
+        {
+          "id": "site-1781531449434",
+          "name": "pika",
+          "url": "https://pika.art/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/pika.art"
+        },
+        {
+          "id": "site-1781531500770",
+          "name": "pixverse",
+          "url": "https://app.pixverse.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/app.pixverse.ai"
+        },
+        {
+          "id": "site-1781531562818",
+          "name": "Stable Video",
+          "url": "https://stability.ai/stable-video",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/stability.ai"
+        },
+        {
+          "id": "site-1781531699346",
+          "name": "lumen5",
+          "url": "https://lumen5.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/lumen5.com"
+        },
+        {
+          "id": "site-1781531744225",
+          "name": "字节跳动即创",
+          "url": "https://aic.oceanengine.com/login",
+          "description": "字节跳动即创",
+          "icon": "https://www.faviconextractor.com/favicon/aic.oceanengine.com"
         }
       ]
     }
