@@ -1789,6 +1789,34 @@ export const mockData = {
           "url": "https://aic.oceanengine.com/login",
           "description": "字节跳动即创",
           "icon": "https://www.faviconextractor.com/favicon/aic.oceanengine.com"
+        },
+        {
+          "id": "site-1781531836482",
+          "name": "讯飞绘镜",
+          "url": "https://typemovie.art/landing/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/typemovie.art"
+        },
+        {
+          "id": "site-1781531871530",
+          "name": "度加创作工具",
+          "url": "https://aigc.baidu.com/home",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/aigc.baidu.com"
+        },
+        {
+          "id": "site-1781531919473",
+          "name": "白日梦AI",
+          "url": "https://aibrm.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/aibrm.com"
+        },
+        {
+          "id": "site-1781531962041",
+          "name": "拍我AI",
+          "url": "https://pai.video/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/pai.video"
         }
       ]
     }
