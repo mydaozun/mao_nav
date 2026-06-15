@@ -947,6 +947,13 @@ export const mockData = {
           "url": "https://touch-ai.org/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/touch-ai.org"
+        },
+        {
+          "id": "site-1781539505970",
+          "name": "mindos",
+          "url": "https://mindos.you/#quickstart",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mindos.you"
         }
       ]
     },
