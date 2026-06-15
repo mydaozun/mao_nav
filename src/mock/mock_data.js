@@ -1699,6 +1699,35 @@ export const mockData = {
           "icon": "https://multica.ai/favicon.svg"
         }
       ]
+    },
+    {
+      "id": "category-1781530224086",
+      "icon": "💻",
+      "name": "AI短剧",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1781530296326",
+          "name": "巨目禄",
+          "url": "https://video.jurilu.com/index",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/video.jurilu.com"
+        },
+        {
+          "id": "site-1781530537917",
+          "name": "libTV",
+          "url": "https://www.liblib.tv/",
+          "description": "哩布哩布AI",
+          "icon": "https://www.faviconextractor.com/favicon/www.liblib.tv"
+        },
+        {
+          "id": "site-1781530687284",
+          "name": "seedance2.0",
+          "url": "https://seed.bytedance.com/zh/seedance2_0",
+          "description": "字节跳动",
+          "icon": "https://www.faviconextractor.com/favicon/seed.bytedance.com"
+        }
+      ]
     }
   ],
   "title": "dog导航🐶",
