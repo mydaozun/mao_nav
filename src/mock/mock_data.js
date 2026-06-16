@@ -1685,6 +1685,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/echobird.ai"
         },
         {
+          "id": "site-1781620915271",
+          "name": "ccMesh",
+          "url": "https://github.com/VkRainB/ccMesh",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
           "id": "site-1780989380442",
           "name": "cc-desktop-switch",
           "url": "https://github.com/lonr-6/cc-desktop-switch",
