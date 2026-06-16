@@ -1294,6 +1294,20 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/zmxoo.xyz"
         },
         {
+          "id": "site-1781609160675",
+          "name": "MISUB",
+          "url": "https://mi.51sub.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mi.51sub.cc.cd"
+        },
+        {
+          "id": "site-1781609183444",
+          "name": "ONESUB",
+          "url": "https://one.51sub.cc.cd/dashboard",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1781605991459",
           "name": "VX代理客户端",
           "url": "https://vx.5vnetwork.com/zh",
