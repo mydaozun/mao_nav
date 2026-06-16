@@ -1282,7 +1282,7 @@ export const mockData = {
     },
     {
       "id": "category-1776048233879",
-      "icon": "✈️✈️",
+      "icon": "✈️",
       "name": "H",
       "order": 13,
       "sites": [
