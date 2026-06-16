@@ -1287,6 +1287,20 @@ export const mockData = {
       "order": 13,
       "sites": [
         {
+          "id": "site-1781605923492",
+          "name": "zmxoo.xyz",
+          "url": "https://zmxoo.xyz/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/zmxoo.xyz"
+        },
+        {
+          "id": "site-1781605991459",
+          "name": "VX代理客户端",
+          "url": "https://vx.5vnetwork.com/zh",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/vx.5vnetwork.com"
+        },
+        {
           "id": "site-1776048321807",
           "name": "hiddify",
           "url": "https://hiddify.com/",
@@ -1335,6 +1349,13 @@ export const mockData = {
           "url": "https://github.com/",
           "description": "",
           "icon": "https://github.githubassets.com/favicons/favicon.png"
+        },
+        {
+          "id": "site-1781605891148",
+          "name": "X",
+          "url": "https://x.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/x.com"
         }
       ]
     },
