@@ -389,6 +389,13 @@ export const mockData = {
           "url": "https://decotv.52cbg.cn/login?redirect=%2F",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1781782475370",
+          "name": "gpt image",
+          "url": "https://image.1penel.cc.cd/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
