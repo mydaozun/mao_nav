@@ -1699,6 +1699,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/github.com"
         },
         {
+          "id": "site-1782362698509",
+          "name": "CLI-Manager",
+          "url": "https://github.com/dark-hxx/CLI-Manager",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1780989380442",
           "name": "cc-desktop-switch",
           "url": "https://github.com/lonr-6/cc-desktop-switch",
