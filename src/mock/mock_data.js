@@ -961,6 +961,13 @@ export const mockData = {
           "url": "https://mindos.you/#quickstart",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/mindos.you"
+        },
+        {
+          "id": "site-1782405081077",
+          "name": "ios签名打包工具",
+          "url": "https://www.sign.lc/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.sign.lc"
         }
       ]
     },
