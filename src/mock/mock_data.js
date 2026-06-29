@@ -104,6 +104,13 @@ export const mockData = {
           "url": "https://mdxhs.iosapp.cc.cd/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/mdxhs.iosapp.cc.cd"
+        },
+        {
+          "id": "site-1782752892101",
+          "name": "公众号排版",
+          "url": "https://md2wechat.app/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
