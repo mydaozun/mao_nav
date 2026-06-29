@@ -97,6 +97,13 @@ export const mockData = {
           "url": "https://developers.weixin.qq.com/platform",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/developers.weixin.qq.com"
+        },
+        {
+          "id": "site-1782752517556",
+          "name": "小红书卡片生成",
+          "url": "https://mdxhs.iosapp.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mdxhs.iosapp.cc.cd"
         }
       ]
     },
