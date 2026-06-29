@@ -1889,6 +1889,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/pai.video"
         }
       ]
+    },
+    {
+      "id": "category-1782734790950",
+      "icon": "📱",
+      "name": "iosapp使用",
+      "order": 1,
+      "sites": []
     }
   ],
   "title": "dog导航🐶",
