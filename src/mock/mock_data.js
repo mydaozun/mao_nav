@@ -99,6 +99,27 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/developers.weixin.qq.com"
         },
         {
+          "id": "site-1782752892101",
+          "name": "公众号排版",
+          "url": "https://md2wechat.app/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/md2wechat.app"
+        },
+        {
+          "id": "site-1782754255424",
+          "name": "weMD公众号排版",
+          "url": "https://edit.wemd.app/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/edit.wemd.app"
+        },
+        {
+          "id": "site-1782754445039",
+          "name": "花生公众号排版",
+          "url": "https://editor.huasheng.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/editor.huasheng.ai"
+        },
+        {
           "id": "site-1782752517556",
           "name": "小红书卡片生成",
           "url": "https://mdxhs.iosapp.cc.cd/",
@@ -106,9 +127,16 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/mdxhs.iosapp.cc.cd"
         },
         {
-          "id": "site-1782752892101",
-          "name": "公众号排版",
-          "url": "https://md2wechat.app/",
+          "id": "site-1782754511281",
+          "name": "公众号简约排版",
+          "url": "https://md.doocs.org",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/md.doocs.org"
+        },
+        {
+          "id": "site-1782754616680",
+          "name": "小红书卡片生成",
+          "url": "https://github.com/weierboge/Redbookcard",
           "description": "",
           "icon": ""
         }
