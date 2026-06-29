@@ -113,18 +113,11 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/edit.wemd.app"
         },
         {
-          "id": "site-1782754445039",
-          "name": "花生公众号排版",
-          "url": "https://editor.huasheng.ai/",
+          "id": "site-1782755730690",
+          "name": "newkit公众号排版",
+          "url": "https://github.com/tianyaxiang/neurapress",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/editor.huasheng.ai"
-        },
-        {
-          "id": "site-1782752517556",
-          "name": "小红书卡片生成",
-          "url": "https://mdxhs.iosapp.cc.cd/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/mdxhs.iosapp.cc.cd"
+          "icon": "https://md.newkit.site/favicon.svg"
         },
         {
           "id": "site-1782754511281",
@@ -132,6 +125,27 @@ export const mockData = {
           "url": "https://md.doocs.org",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/md.doocs.org"
+        },
+        {
+          "id": "site-1782754445039",
+          "name": "花生公众号排版",
+          "url": "https://editor.huasheng.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/editor.huasheng.ai"
+        },
+        {
+          "id": "site-1782755552622",
+          "name": "微信公众号排版",
+          "url": "https://github.com/jaywcjlove/wxmp",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782752517556",
+          "name": "小红书卡片生成",
+          "url": "https://mdxhs.iosapp.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mdxhs.iosapp.cc.cd"
         },
         {
           "id": "site-1782754616680",
