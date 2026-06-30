@@ -106,6 +106,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/md2wechat.app"
         },
         {
+          "id": "site-1782781922535",
+          "name": "box公众号排版",
+          "url": "https://md.code-box.fun/",
+          "description": "",
+          "icon": "https://md.code-box.fun/assets/images/logo.svg"
+        },
+        {
           "id": "site-1782754255424",
           "name": "weMD公众号排版",
           "url": "https://edit.wemd.app/",
@@ -153,13 +160,6 @@ export const mockData = {
           "url": "https://www.135editor.com/beautify_editor.html",
           "description": "",
           "icon": "https://bcn.135editor.com/files/202403/images/favicon.png"
-        },
-        {
-          "id": "site-1782781922535",
-          "name": "box公众号排版",
-          "url": "https://md.code-box.fun/",
-          "description": "",
-          "icon": "https://md.code-box.fun/assets/images/logo.svg"
         },
         {
           "id": "site-1782782015655",
