@@ -106,13 +106,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/md2wechat.app"
         },
         {
-          "id": "site-1782781922535",
-          "name": "box公众号排版",
-          "url": "https://md.code-box.fun/",
-          "description": "",
-          "icon": "https://md.code-box.fun/assets/images/logo.svg"
-        },
-        {
           "id": "site-1782754255424",
           "name": "weMD公众号排版",
           "url": "https://edit.wemd.app/",
@@ -125,6 +118,13 @@ export const mockData = {
           "url": "https://github.com/tianyaxiang/neurapress",
           "description": "",
           "icon": "https://md.newkit.site/favicon.svg"
+        },
+        {
+          "id": "site-1782781922535",
+          "name": "box公众号排版",
+          "url": "https://md.code-box.fun/",
+          "description": "",
+          "icon": "https://md.code-box.fun/assets/images/logo.svg"
         },
         {
           "id": "site-1782754511281",
