@@ -174,6 +174,48 @@ export const mockData = {
           "url": "https://md.code-box.fun/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782782015655",
+          "name": "vibe公众号排版",
+          "url": "https://github.com/Yuzc-001/vibe-101-publish",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782782397613",
+          "name": "文颜公众号排版",
+          "url": "https://wenyan.yuzhi.tech",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/wenyan.yuzhi.tech"
+        },
+        {
+          "id": "site-1782783208859",
+          "name": "爱贝壳内容同步助手",
+          "url": "https://chromewebstore.google.com/detail/%E7%88%B1%E8%B4%9D%E5%A3%B3%E5%86%85%E5%AE%B9%E5%90%8C%E6%AD%A5%E5%8A%A9%E6%89%8B/jejejajkcbhejfiocemmddgbkdlhhngm?utm_source=ext_app_menu%E6%8E%A8%E8%8D%90%E8%BF%99%E4%B8%AAchrome%E6%8F%92%E4%BB%B6%E8%AF%95%E8%AF%95%EF%BC%8C%E6%9C%89%E6%94%B6%E8%B4%B9%EF%BC%8C%E6%B2%A1%E6%9C%89aff",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782783269690",
+          "name": "公号编辑器·熊少",
+          "url": "https://chromewebstore.google.com/detail/%E5%85%AC%E5%8F%B7%E7%BC%96%E8%BE%91%E5%99%A8%C2%B7%E7%86%8A%E5%B0%91/ofmcbnkbdahmoemfbkkmogjiknbcefad?utm_source=item-share-cb",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782783304483",
+          "name": "COSE - 多平台文章同步",
+          "url": "https://chromewebstore.google.com/detail/cose-%E5%A4%9A%E5%B9%B3%E5%8F%B0%E6%96%87%E7%AB%A0%E5%90%8C%E6%AD%A5/ilhikcdphhpjofhlnbojifbihhfmmhfk",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782783352155",
+          "name": "文章同步助手",
+          "url": "https://www.wechatsync.com/?utm_source=extension_about",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.wechatsync.com"
         }
       ]
     },
