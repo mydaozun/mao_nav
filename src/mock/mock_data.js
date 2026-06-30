@@ -216,6 +216,13 @@ export const mockData = {
           "url": "https://www.wechatsync.com/?utm_source=extension_about",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.wechatsync.com"
+        },
+        {
+          "id": "site-1782814511957",
+          "name": "文澜排版 VellumStyle",
+          "url": "https://github.com/CaipingPeng/VellumStyle",
+          "description": "EXE程序",
+          "icon": ""
         }
       ]
     },
