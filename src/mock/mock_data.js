@@ -138,7 +138,42 @@ export const mockData = {
           "name": "微信公众号排版",
           "url": "https://github.com/jaywcjlove/wxmp",
           "description": "",
-          "icon": ""
+          "icon": "https://wangchujiang.com/wxmp/favicon.ico"
+        },
+        {
+          "id": "site-1782781097603",
+          "name": "135模板提取",
+          "url": "http://185.45.193.154/123/",
+          "description": "",
+          "icon": "https://bcn.135editor.com/files/202403/images/favicon.png"
+        },
+        {
+          "id": "site-1782781115970",
+          "name": "135排版",
+          "url": "https://www.135editor.com/beautify_editor.html",
+          "description": "",
+          "icon": "https://bcn.135editor.com/files/202403/images/favicon.png"
+        },
+        {
+          "id": "site-1782781922535",
+          "name": "box公众号排版",
+          "url": "https://md.code-box.fun/",
+          "description": "",
+          "icon": "https://md.code-box.fun/assets/images/logo.svg"
+        },
+        {
+          "id": "site-1782782015655",
+          "name": "vibe公众号排版",
+          "url": "https://github.com/Yuzc-001/vibe-101-publish",
+          "description": "",
+          "icon": "https://yuzc-001.github.io/vibe-101-publish/assets/favicon-Ch8KG_iD.svg"
+        },
+        {
+          "id": "site-1782782397613",
+          "name": "文颜公众号排版",
+          "url": "https://wenyan.yuzhi.tech",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/wenyan.yuzhi.tech"
         },
         {
           "id": "site-1782752517556",
@@ -153,41 +188,6 @@ export const mockData = {
           "url": "https://github.com/weierboge/Redbookcard",
           "description": "",
           "icon": ""
-        },
-        {
-          "id": "site-1782781097603",
-          "name": "135模板提取",
-          "url": "http://185.45.193.154/123/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1782781115970",
-          "name": "135排版",
-          "url": "https://www.135editor.com/beautify_editor.html",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1782781922535",
-          "name": "box公众号排版",
-          "url": "https://md.code-box.fun/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1782782015655",
-          "name": "vibe公众号排版",
-          "url": "https://github.com/Yuzc-001/vibe-101-publish",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1782782397613",
-          "name": "文颜公众号排版",
-          "url": "https://wenyan.yuzhi.tech",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/wenyan.yuzhi.tech"
         },
         {
           "id": "site-1782783208859",
