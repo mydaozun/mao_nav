@@ -237,6 +237,27 @@ export const mockData = {
           "url": "https://shiyiai.cc/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/shiyiai.cc"
+        },
+        {
+          "id": "site-1784295107225",
+          "name": "好采助手",
+          "url": "https://chromewebstore.google.com/detail/%E5%A5%BD%E9%87%87%E5%8A%A9%E6%89%8B-%E5%B0%8F%E7%BA%A2%E4%B9%A6%E9%87%87%E9%9B%86-%E4%B8%80%E9%94%AE%E5%90%8C%E6%AD%A5-eagle%E3%80%81%E9%A3%9E%E4%B9%A6%E5%A4%9A/pfcfpcemackcakjlggmggebkhmkhiong",
+          "description": "",
+          "icon": "https://lh3.googleusercontent.com/pMBQbPmIjG4u1QHy6WYH3Iake9oFqYjJDVlo97X2u3LpBRZF3qEl229zJhXt2hbHK9KZOt-uEKmvVX5X9yJK3AN318Q=s120"
+        },
+        {
+          "id": "site-1784295141880",
+          "name": "社媒助手",
+          "url": "https://chromewebstore.google.com/detail/%E7%A4%BE%E5%AA%92%E5%8A%A9%E6%89%8B-%E5%B0%8F%E7%BA%A2%E4%B9%A6%E3%80%81%E6%8A%96%E9%9F%B3%E3%80%81%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E3%80%81%E5%BF%AB%E6%89%8B%E3%80%81tikto/dbichmdlbjdeplpkhcejgkakobjbjalc",
+          "description": "",
+          "icon": "https://lh3.googleusercontent.com/ix-8wEca7Y7RB1qzQa1JE1E3ExU1mDnS13Np2kDzSugQ_UI9KB6NxVpUebdvYPO8yrdyKNTAotkd0KrAFwgfKIOvbg=s120"
+        },
+        {
+          "id": "site-1784295166656",
+          "name": "小草莓 - 支持小红书视频批量下载",
+          "url": "https://chromewebstore.google.com/detail/%E5%B0%8F%E8%8D%89%E8%8E%93-%E6%94%AF%E6%8C%81%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%A7%86%E9%A2%91%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD/beeaddblkeeialcohiolkkoiifhgjooj",
+          "description": "",
+          "icon": "https://lh3.googleusercontent.com/9Uqg5N1LB5pAJRSEuUZ_lET-4H9UErzeD7fmT0nw0rVkSjbztKI4SwSlq8In16XEh9rSAyPQznMtnmHThrtaBKvaxA=s120"
         }
       ]
     },
