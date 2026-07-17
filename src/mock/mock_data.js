@@ -92,6 +92,20 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/mp.weixin.qq.com"
         },
         {
+          "id": "site-1784283409582",
+          "name": "cardify卡片工坊",
+          "url": "https://cardify.aivaded.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/cardify.aivaded.com"
+        },
+        {
+          "id": "site-1784283443053",
+          "name": "拾意",
+          "url": "https://shiyiai.cc/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/shiyiai.cc"
+        },
+        {
           "id": "site-1782735289711",
           "name": "微信开发者平台",
           "url": "https://developers.weixin.qq.com/platform",
