@@ -1,0 +1,2122 @@
+export const mockData = {
+  "categories": [
+    {
+      "id": "my-favorites",
+      "name": "我的常用",
+      "icon": "💥",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1781077895748",
+          "name": "52购物商城",
+          "url": "https://52shop.cc.cd",
+          "description": "",
+          "icon": "https://52shop.cc.cd/assets/static/home-n.CLVRX4al.png"
+        },
+        {
+          "id": "site-1777464677002",
+          "name": "wireshark",
+          "url": "https://www.wireshark.org/",
+          "description": "开源免费的网络数据拆包工具【有中文】",
+          "icon": "https://www.faviconextractor.com/favicon/www.wireshark.org"
+        },
+        {
+          "id": "site-1777705820915",
+          "name": "proxypin",
+          "url": "https://github.com/wanghongenpin/proxypin",
+          "description": "全平台抓包工具",
+          "icon": ""
+        },
+        {
+          "id": "site-1780038675588",
+          "name": "DBX",
+          "url": "https://github.com/t8y2/dbx",
+          "description": "数据库连接查看编辑器",
+          "icon": ""
+        },
+        {
+          "id": "site-1780623070772",
+          "name": "clawhub.ai",
+          "url": "https://clawhub.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/clawhub.ai"
+        }
+      ]
+    },
+    {
+      "id": "category-1782734790950",
+      "icon": "📱",
+      "name": "iosapp使用",
+      "order": 1,
+      "sites": [
+        {
+          "id": "site-1782734942142",
+          "name": "iosapp",
+          "url": "https://iosapp.cc.cd",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782734968406",
+          "name": "rss",
+          "url": "https://rss.iosapp.cc.cd/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782734991734",
+          "name": "截图生成",
+          "url": "https://xhs.iosapp.cc.cd/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782735130903",
+          "name": "br博客",
+          "url": "https://br.iosapp.cc.cd/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782735230247",
+          "name": "红小书创作平台",
+          "url": "https://creator.xiaohongshu.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782735267064",
+          "name": "微信公众号创作平台",
+          "url": "https://mp.weixin.qq.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mp.weixin.qq.com"
+        },
+        {
+          "id": "site-1784283409582",
+          "name": "cardify卡片工坊",
+          "url": "https://cardify.aivaded.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/cardify.aivaded.com"
+        },
+        {
+          "id": "site-1782735289711",
+          "name": "微信开发者平台",
+          "url": "https://developers.weixin.qq.com/platform",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/developers.weixin.qq.com"
+        },
+        {
+          "id": "site-1782752892101",
+          "name": "公众号排版",
+          "url": "https://md2wechat.app/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/md2wechat.app"
+        },
+        {
+          "id": "site-1782754255424",
+          "name": "weMD公众号排版",
+          "url": "https://edit.wemd.app/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/edit.wemd.app"
+        },
+        {
+          "id": "site-1782755730690",
+          "name": "newkit公众号排版",
+          "url": "https://github.com/tianyaxiang/neurapress",
+          "description": "",
+          "icon": "https://md.newkit.site/favicon.svg"
+        },
+        {
+          "id": "site-1782781922535",
+          "name": "box公众号排版",
+          "url": "https://md.code-box.fun/",
+          "description": "",
+          "icon": "https://md.code-box.fun/assets/images/logo.svg"
+        },
+        {
+          "id": "site-1782754511281",
+          "name": "公众号简约排版",
+          "url": "https://md.doocs.org",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/md.doocs.org"
+        },
+        {
+          "id": "site-1782754445039",
+          "name": "花生公众号排版",
+          "url": "https://editor.huasheng.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/editor.huasheng.ai"
+        },
+        {
+          "id": "site-1782755552622",
+          "name": "微信公众号排版",
+          "url": "https://github.com/jaywcjlove/wxmp",
+          "description": "",
+          "icon": "https://wangchujiang.com/wxmp/favicon.ico"
+        },
+        {
+          "id": "site-1782781097603",
+          "name": "135模板提取",
+          "url": "http://185.45.193.154/123/",
+          "description": "",
+          "icon": "https://bcn.135editor.com/files/202403/images/favicon.png"
+        },
+        {
+          "id": "site-1782781115970",
+          "name": "135排版",
+          "url": "https://www.135editor.com/beautify_editor.html",
+          "description": "",
+          "icon": "https://bcn.135editor.com/files/202403/images/favicon.png"
+        },
+        {
+          "id": "site-1782782015655",
+          "name": "vibe公众号排版",
+          "url": "https://github.com/Yuzc-001/vibe-101-publish",
+          "description": "",
+          "icon": "https://yuzc-001.github.io/vibe-101-publish/assets/favicon-Ch8KG_iD.svg"
+        },
+        {
+          "id": "site-1782782397613",
+          "name": "文颜公众号排版",
+          "url": "https://wenyan.yuzhi.tech",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/wenyan.yuzhi.tech"
+        },
+        {
+          "id": "site-1782752517556",
+          "name": "小红书卡片生成",
+          "url": "https://mdxhs.iosapp.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mdxhs.iosapp.cc.cd"
+        },
+        {
+          "id": "site-1782754616680",
+          "name": "小红书卡片生成",
+          "url": "https://github.com/weierboge/Redbookcard",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782783208859",
+          "name": "爱贝壳内容同步助手",
+          "url": "https://chromewebstore.google.com/detail/%E7%88%B1%E8%B4%9D%E5%A3%B3%E5%86%85%E5%AE%B9%E5%90%8C%E6%AD%A5%E5%8A%A9%E6%89%8B/jejejajkcbhejfiocemmddgbkdlhhngm?utm_source=ext_app_menu%E6%8E%A8%E8%8D%90%E8%BF%99%E4%B8%AAchrome%E6%8F%92%E4%BB%B6%E8%AF%95%E8%AF%95%EF%BC%8C%E6%9C%89%E6%94%B6%E8%B4%B9%EF%BC%8C%E6%B2%A1%E6%9C%89aff",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782783269690",
+          "name": "公号编辑器·熊少",
+          "url": "https://chromewebstore.google.com/detail/%E5%85%AC%E5%8F%B7%E7%BC%96%E8%BE%91%E5%99%A8%C2%B7%E7%86%8A%E5%B0%91/ofmcbnkbdahmoemfbkkmogjiknbcefad?utm_source=item-share-cb",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782783304483",
+          "name": "COSE - 多平台文章同步",
+          "url": "https://chromewebstore.google.com/detail/cose-%E5%A4%9A%E5%B9%B3%E5%8F%B0%E6%96%87%E7%AB%A0%E5%90%8C%E6%AD%A5/ilhikcdphhpjofhlnbojifbihhfmmhfk",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782783352155",
+          "name": "文章同步助手",
+          "url": "https://www.wechatsync.com/?utm_source=extension_about",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.wechatsync.com"
+        },
+        {
+          "id": "site-1782814511957",
+          "name": "文澜排版 VellumStyle",
+          "url": "https://github.com/CaipingPeng/VellumStyle",
+          "description": "EXE程序",
+          "icon": ""
+        },
+        {
+          "id": "site-1784283443053",
+          "name": "拾意",
+          "url": "https://shiyiai.cc/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/shiyiai.cc"
+        },
+        {
+          "id": "site-1784295107225",
+          "name": "好采助手",
+          "url": "https://chromewebstore.google.com/detail/%E5%A5%BD%E9%87%87%E5%8A%A9%E6%89%8B-%E5%B0%8F%E7%BA%A2%E4%B9%A6%E9%87%87%E9%9B%86-%E4%B8%80%E9%94%AE%E5%90%8C%E6%AD%A5-eagle%E3%80%81%E9%A3%9E%E4%B9%A6%E5%A4%9A/pfcfpcemackcakjlggmggebkhmkhiong",
+          "description": "",
+          "icon": "https://lh3.googleusercontent.com/pMBQbPmIjG4u1QHy6WYH3Iake9oFqYjJDVlo97X2u3LpBRZF3qEl229zJhXt2hbHK9KZOt-uEKmvVX5X9yJK3AN318Q=s120"
+        },
+        {
+          "id": "site-1784295141880",
+          "name": "社媒助手",
+          "url": "https://chromewebstore.google.com/detail/%E7%A4%BE%E5%AA%92%E5%8A%A9%E6%89%8B-%E5%B0%8F%E7%BA%A2%E4%B9%A6%E3%80%81%E6%8A%96%E9%9F%B3%E3%80%81%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E3%80%81%E5%BF%AB%E6%89%8B%E3%80%81tikto/dbichmdlbjdeplpkhcejgkakobjbjalc",
+          "description": "",
+          "icon": "https://lh3.googleusercontent.com/ix-8wEca7Y7RB1qzQa1JE1E3ExU1mDnS13Np2kDzSugQ_UI9KB6NxVpUebdvYPO8yrdyKNTAotkd0KrAFwgfKIOvbg=s120"
+        },
+        {
+          "id": "site-1784295166656",
+          "name": "小草莓 - 支持小红书视频批量下载",
+          "url": "https://chromewebstore.google.com/detail/%E5%B0%8F%E8%8D%89%E8%8E%93-%E6%94%AF%E6%8C%81%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%A7%86%E9%A2%91%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD/beeaddblkeeialcohiolkkoiifhgjooj",
+          "description": "",
+          "icon": "https://lh3.googleusercontent.com/9Uqg5N1LB5pAJRSEuUZ_lET-4H9UErzeD7fmT0nw0rVkSjbztKI4SwSlq8In16XEh9rSAyPQznMtnmHThrtaBKvaxA=s120"
+        }
+      ]
+    },
+    {
+      "id": "ai-tools",
+      "name": "在线AI智能",
+      "icon": "🤖",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1775998249673",
+          "name": "CLI proxy API",
+          "url": "https://api.52cbg.cn/management.html",
+          "description": "",
+          "icon": "https://avatars.githubusercontent.com/u/233033915?s=64&v=4"
+        },
+        {
+          "id": "site-1775999343957",
+          "name": "cto.new",
+          "url": "https://cto.new/",
+          "description": "",
+          "icon": "https://cto.new/favicon.ico"
+        },
+        {
+          "id": "site-1775999359685",
+          "name": "arena",
+          "url": "https://arena.ai/",
+          "description": "",
+          "icon": "https://arena.ai/images/favicon-rebrand.svg"
+        },
+        {
+          "id": "site-1775999407125",
+          "name": "AI图像生成器",
+          "url": "https://freeaiimage.net/zh/",
+          "description": "",
+          "icon": "https://freeaiimage.net/icon.png"
+        },
+        {
+          "id": "site-1775999509108",
+          "name": "onyx",
+          "url": "https://onyx.app/",
+          "description": "",
+          "icon": "https://onyx.app/favicon.ico"
+        },
+        {
+          "id": "site-1775999537717",
+          "name": "trae",
+          "url": "https://solo.trae.cn/",
+          "description": "",
+          "icon": "https://lf-cdn.trae.com.cn/obj/trae-com-cn/trae_website_prod_cn/favicon.png"
+        },
+        {
+          "id": "site-1778772189802",
+          "name": "puter",
+          "url": "https://puter.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1780623111108",
+          "name": "clawhub.ai",
+          "url": "https://clawhub.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/clawhub.ai"
+        },
+        {
+          "id": "site-1781189766527",
+          "name": "monkeycode智能开发平台",
+          "url": "https://monkeycode-ai.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/monkeycode-ai.com"
+        }
+      ]
+    },
+    {
+      "id": "cloud",
+      "name": "云服务",
+      "icon": "☁️",
+      "order": 3,
+      "sites": [
+        {
+          "id": "cloudflare",
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com",
+          "description": "全球CDN和网络安全服务",
+          "icon": "/sitelogo/www.cloudflare.com.ico"
+        },
+        {
+          "id": "vercel",
+          "name": "Vercel",
+          "url": "https://vercel.com",
+          "description": "前端部署平台",
+          "icon": "/sitelogo/vercel.com.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1775999803115",
+      "icon": "🍅",
+      "name": "AI小说",
+      "order": 4,
+      "sites": [
+        {
+          "id": "site-1775999929811",
+          "name": "番茄小说下载",
+          "url": "https://tn.1penel.cc.cd/",
+          "description": "18423",
+          "icon": "https://tn.1penel.cc.cd/assets/favicon.ico"
+        },
+        {
+          "id": "site-1780709669014",
+          "name": "character-arc",
+          "url": "https://github.com/uu201/character-arc",
+          "description": "有exe",
+          "icon": ""
+        },
+        {
+          "id": "site-1776229469929",
+          "name": "Novel-Writing-Assistant",
+          "url": "http://140.245.42.166:5173/",
+          "description": "AI小说创作工作台5173",
+          "icon": ""
+        },
+        {
+          "id": "site-1776161230537",
+          "name": "author",
+          "url": "https://author.1penel.cc.cd/",
+          "description": "vercel",
+          "icon": ""
+        },
+        {
+          "id": "site-1777947799266",
+          "name": "NovelCraft",
+          "url": "http://140.245.42.166:8701",
+          "description": "8701,8080",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999978899",
+          "name": "mumu ai小说",
+          "url": "https://1penel.cc.cd/",
+          "description": "8000",
+          "icon": "https://1penel.cc.cd/logo.svg"
+        },
+        {
+          "id": "site-1776000073139",
+          "name": "91写作",
+          "url": "https://91.1penel.cc.cd/#/",
+          "description": "vercel",
+          "icon": "https://mlimli.art/home/icon.png"
+        },
+        {
+          "id": "site-1776000038755",
+          "name": "daer novel",
+          "url": "http://140.245.42.166:8001/",
+          "description": "8001",
+          "icon": "https://raw.githubusercontent.com/yuwangi/daer-novel/main/apps/frontend/public/logo.svg"
+        },
+        {
+          "id": "site-1776164740302",
+          "name": "arboris",
+          "url": "http://140.245.42.166:8088/",
+          "description": "拯救小说家8088",
+          "icon": "https://avatars.githubusercontent.com/u/125454309?s=48&v=4"
+        },
+        {
+          "id": "site-1776326541807",
+          "name": "NovelCraft",
+          "url": "https://github.com/15673312611/AI_NovelCraft-",
+          "description": "github官网搭建",
+          "icon": ""
+        },
+        {
+          "id": "site-1776326231863",
+          "name": "马良写作",
+          "url": "https://maliangwriter.com/",
+          "description": "每天免费300积分刷新",
+          "icon": "https://maliangwriter.com/favicon-32.png"
+        },
+        {
+          "id": "site-1780709753622",
+          "name": "novel_web",
+          "url": "https://github.com/BaiSugar/novel_web",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "category-1775997733019",
+      "icon": "💻",
+      "name": "zeabur",
+      "order": 5,
+      "sites": [
+        {
+          "id": "site-1775998192177",
+          "name": "cloudreve",
+          "url": "https://dr.52cbg.cn/",
+          "description": "",
+          "icon": "https://dr.52cbg.cn/static/img/favicon.ico"
+        },
+        {
+          "id": "site-1775998218728",
+          "name": "nextcloud",
+          "url": "https://myne.zeabur.app/apps/dashboard/",
+          "description": "",
+          "icon": "https://myne.zeabur.app/apps/theming/favicon/dashboard?v=9c0ff541"
+        }
+      ]
+    },
+    {
+      "id": "category-1775997800091",
+      "icon": "☁️",
+      "name": "甲骨文云",
+      "order": 6,
+      "sites": [
+        {
+          "id": "site-1775998278353",
+          "name": "OpenList",
+          "url": "https://list.1penel.cc.cd/",
+          "description": "",
+          "icon": "https://res.oplist.org/logo/logo.svg"
+        },
+        {
+          "id": "site-1775998295906",
+          "name": "cloudreve",
+          "url": "https://dreve.1penel.cc.cd/home",
+          "description": "",
+          "icon": "https://dr.52cbg.cn/static/img/favicon.ico"
+        },
+        {
+          "id": "site-1775998312464",
+          "name": "AstrBot",
+          "url": "https://bot.1penel.cc.cd/",
+          "description": "",
+          "icon": "https://bot.1penel.cc.cd/favicon.svg"
+        },
+        {
+          "id": "site-1775998333994",
+          "name": "CLI proxy API",
+          "url": "https://api.1penel.cc.cd/management.html",
+          "description": "",
+          "icon": "https://avatars.githubusercontent.com/u/233033915?s=64&v=4"
+        },
+        {
+          "id": "site-1775998365784",
+          "name": "Mytube",
+          "url": "https://mytube.1penel.cc.cd/",
+          "description": "",
+          "icon": "https://mytube.1penel.cc.cd/favicon.png"
+        },
+        {
+          "id": "site-1775998415330",
+          "name": "番茄小说下载",
+          "url": "https://tn.1penel.cc.cd/",
+          "description": "",
+          "icon": "https://tn.1penel.cc.cd/assets/favicon.ico"
+        },
+        {
+          "id": "site-1775998472329",
+          "name": "MuMu AI小说",
+          "url": "https://1penel.cc.cd/",
+          "description": "",
+          "icon": "https://1penel.cc.cd/logo.svg"
+        },
+        {
+          "id": "site-1775998581863",
+          "name": "1panel面板",
+          "url": "http://140.245.42.166:23371/1panel",
+          "description": "",
+          "icon": "https://1panel.cn/favicon.png"
+        },
+        {
+          "id": "site-1775998608143",
+          "name": "dockge容器管理",
+          "url": "http://140.245.42.166:5001/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775998631576",
+          "name": "suwayomi漫画",
+          "url": "https://su.52cbg.cn/",
+          "description": "",
+          "icon": "https://github.com/Suwayomi/Suwayomi-Server/raw/master/server/src/main/resources/icon/faviconlogo.png"
+        },
+        {
+          "id": "site-1775999559700",
+          "name": "daer novel",
+          "url": "http://140.245.42.166:8001/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1776046048874",
+          "name": "OmniRoute",
+          "url": "https://om.1penel.cc.cd/login",
+          "description": "",
+          "icon": "https://om.1penel.cc.cd/favicon.svg"
+        },
+        {
+          "id": "site-1776305065267",
+          "name": "docker安装程序自动更新",
+          "url": "https://github.com/containrrr/watchtower",
+          "description": "环境参数：WATCHTOWER_NO_STARTUP_MESSAGE;WATCHTOWER_CLEANUP=true;TZ=Asia/Shanghai\n命令参数：--interval 3600",
+          "icon": "https://containrrr.dev/watchtower/images/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1775997847234",
+      "icon": "📊",
+      "name": "vercel",
+      "order": 7,
+      "sites": [
+        {
+          "id": "site-1775998677503",
+          "name": "今日热榜",
+          "url": "https://top.52cbg.cn/",
+          "description": "",
+          "icon": "https://top.52cbg.cn/favicon.ico?favicon.6514833f.ico"
+        },
+        {
+          "id": "site-1775998699728",
+          "name": "91写作",
+          "url": "https://91.1penel.cc.cd/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775998745432",
+          "name": "LunaTV",
+          "url": "https://tv.52cbg.cn/login?redirect=%2F",
+          "description": "",
+          "icon": "https://tv.52cbg.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "site-1775998759111",
+          "name": "MoonTv",
+          "url": "https://moontv.52cbg.cn/login?redirect=%2F",
+          "description": "",
+          "icon": "https://moontv.52cbg.cn/icons/icon-192x192.png"
+        },
+        {
+          "id": "site-1775998772271",
+          "name": "LunaTv",
+          "url": "https://decotv.52cbg.cn/login?redirect=%2F",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781782475370",
+          "name": "gpt image",
+          "url": "https://image.1penel.cc.cd/",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "category-1775997877706",
+      "icon": "☁️",
+      "name": "cloudflare",
+      "order": 8,
+      "sites": [
+        {
+          "id": "site-1775998949215",
+          "name": "warp优选IP",
+          "url": "https://warp.52cbg.cn/1b168ecb-bbd5-4d9c-a353-d4e9f2899456",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775998962766",
+          "name": "TG图床",
+          "url": "https://tc.52cbg.cn/",
+          "description": "",
+          "icon": "https://tc.52cbg.cn/favicon.ico"
+        },
+        {
+          "id": "site-1775998992294",
+          "name": "MiSub",
+          "url": "https://mi.51sub.cc.cd",
+          "description": "",
+          "icon": "https://sub.52cbg.cn/logo.svg"
+        },
+        {
+          "id": "site-1775999010222",
+          "name": "One Sub",
+          "url": "https://one.51sub.cc.cd/",
+          "description": "",
+          "icon": "⚡️"
+        },
+        {
+          "id": "site-1775999034895",
+          "name": "CF-workers-SUB",
+          "url": "https://cloud.52cbg.cn/adminroot",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999046918",
+          "name": "利润计算器",
+          "url": "https://gj.52cbg.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775999068406",
+          "name": "CF网盘",
+          "url": "https://pan.52cbg.cn/",
+          "description": "",
+          "icon": "https://pan.52cbg.cn/assets/favicon.png"
+        },
+        {
+          "id": "site-1775999081334",
+          "name": "WEBdav",
+          "url": "https://webdav.52cbg.cn/",
+          "description": "",
+          "icon": "https://pan.52cbg.cn/assets/favicon.png"
+        },
+        {
+          "id": "site-1780807731732",
+          "name": "NodeWarden",
+          "url": "https://bit.51sub.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/bit.51sub.cc.cd"
+        }
+      ]
+    },
+    {
+      "id": "category-1781142215400",
+      "icon": "🌐",
+      "name": "自建网站",
+      "order": 9,
+      "sites": [
+        {
+          "id": "site-1781142297487",
+          "name": "typecho博客",
+          "url": "https://blog.mmaiverse.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781143034023",
+          "name": "api.1penel",
+          "url": "https://api.1penel.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/api.1penel.cc.cd"
+        },
+        {
+          "id": "site-1781142471726",
+          "name": "免费域名",
+          "url": "https://my.dnshe.com/",
+          "description": ".cc.cd",
+          "icon": "https://www.faviconextractor.com/favicon/my.dnshe.com"
+        },
+        {
+          "id": "site-1781142819405",
+          "name": "52购物商城",
+          "url": "https://52shop.cc.cd",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781142940117",
+          "name": "mumu小说",
+          "url": "https://1penel.cc.cd/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781143065260",
+          "name": "astrbot机器人",
+          "url": "https://bot.1penel.cc.cd",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/bot.1penel.cc.cd"
+        },
+        {
+          "id": "site-1781143222731",
+          "name": "dreve",
+          "url": "https://dreve.1penel.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dreve.1penel.cc.cd"
+        },
+        {
+          "id": "site-1781143292508",
+          "name": "openlist",
+          "url": "https://list.1penel.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/list.1penel.cc.cd"
+        },
+        {
+          "id": "site-1781143312060",
+          "name": "mytube",
+          "url": "https://mytube.1penel.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mytube.1penel.cc.cd"
+        },
+        {
+          "id": "site-1781143381204",
+          "name": "番茄小说下载",
+          "url": "https://tn.1penel.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/tn.1penel.cc.cd"
+        },
+        {
+          "id": "site-1781143417403",
+          "name": "91写作",
+          "url": "https://91.1penel.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/91.1penel.cc.cd"
+        },
+        {
+          "id": "site-1781154293311",
+          "name": "52导航",
+          "url": "https://52dh.cc.cd/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781154360478",
+          "name": "nodewarden",
+          "url": "https://bit.51sub.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/bit.51sub.cc.cd"
+        },
+        {
+          "id": "site-1781154349079",
+          "name": "51sub",
+          "url": "https://51sub.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/51sub.cc.cd"
+        },
+        {
+          "id": "site-1781154418863",
+          "name": "52DH",
+          "url": "https://www.mmaiverse.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.mmaiverse.com"
+        },
+        {
+          "id": "site-1781154496271",
+          "name": "DOCX转Markdown",
+          "url": "https://d2m.mmaiverse.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/d2m.mmaiverse.com"
+        },
+        {
+          "id": "site-1781154522094",
+          "name": "房贷计算器",
+          "url": "https://fd.mmaiverse.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/fd.mmaiverse.com"
+        },
+        {
+          "id": "site-1781154539807",
+          "name": "在线画画",
+          "url": "https://ht.mmaiverse.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ht.mmaiverse.com"
+        },
+        {
+          "id": "site-1781154555678",
+          "name": "IP查询",
+          "url": "https://ip.mmaiverse.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ip.mmaiverse.com"
+        },
+        {
+          "id": "site-1781154571182",
+          "name": "IT工具箱",
+          "url": "https://it.mmaiverse.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/it.mmaiverse.com"
+        },
+        {
+          "id": "site-1781154588790",
+          "name": "简繁转换",
+          "url": "https://jf.mmaiverse.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/jf.mmaiverse.com"
+        },
+        {
+          "id": "site-1781154609190",
+          "name": "M3U8在线播放器",
+          "url": "https://m3u8.mmaiverse.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/m3u8.mmaiverse.com"
+        },
+        {
+          "id": "site-1781154627510",
+          "name": "PDF工具",
+          "url": "https://pdf.mmaiverse.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/pdf.mmaiverse.com"
+        },
+        {
+          "id": "site-1781154643814",
+          "name": "在线PS",
+          "url": "https://ps.mmaiverse.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ps.mmaiverse.com"
+        },
+        {
+          "id": "site-1781154669853",
+          "name": "中国色",
+          "url": "https://se.mmaiverse.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/se.mmaiverse.com"
+        },
+        {
+          "id": "site-1781154828789",
+          "name": "daozun的博客",
+          "url": "https://bk.52cbg.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/bk.52cbg.cn"
+        },
+        {
+          "id": "site-1781154920493",
+          "name": "lunatv",
+          "url": "https://decotv.52cbg.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/decotv.52cbg.cn"
+        },
+        {
+          "id": "site-1781154940846",
+          "name": "cloud智能线路检测",
+          "url": "https://dh.52cbg.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dh.52cbg.cn"
+        },
+        {
+          "id": "site-1781154962328",
+          "name": "cloudreve",
+          "url": "https://dr.52cbg.cn",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dr.52cbg.cn"
+        },
+        {
+          "id": "site-1781154979349",
+          "name": "利润计算器",
+          "url": "https://gj.52cbg.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/gj.52cbg.cn"
+        },
+        {
+          "id": "site-1781155033500",
+          "name": "MOONTV",
+          "url": "https://moontv.52cbg.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/moontv.52cbg.cn"
+        },
+        {
+          "id": "site-1781155090172",
+          "name": "onesub",
+          "url": "https://one.52cbg.cn",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781155103084",
+          "name": "cloudpan",
+          "url": "https://pan.52cbg.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/pan.52cbg.cn"
+        },
+        {
+          "id": "site-1781155114517",
+          "name": "misub",
+          "url": "https://sub.52cbg.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/sub.52cbg.cn"
+        },
+        {
+          "id": "site-1781155127805",
+          "name": "telegraph图床",
+          "url": "https://tc.52cbg.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/tc.52cbg.cn"
+        },
+        {
+          "id": "site-1781155139620",
+          "name": "今日热榜",
+          "url": "https://top.52cbg.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/top.52cbg.cn"
+        },
+        {
+          "id": "site-1781155180093",
+          "name": "lunatv",
+          "url": "https://tv.52cbg.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/tv.52cbg.cn"
+        },
+        {
+          "id": "site-1781155200445",
+          "name": "拾光集",
+          "url": "https://mb.52cbg.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mb.52cbg.cn"
+        },
+        {
+          "id": "site-1781155224684",
+          "name": "征兵网",
+          "url": "https://warp.52cbg.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/warp.52cbg.cn"
+        }
+      ]
+    },
+    {
+      "id": "category-1775997931538",
+      "icon": "📁",
+      "name": "在线数据存储",
+      "order": 10,
+      "sites": [
+        {
+          "id": "site-1775998817055",
+          "name": "upstash",
+          "url": "https://upstash.com/",
+          "description": "",
+          "icon": "https://upstash.com/icons/favicon-32x32.png"
+        },
+        {
+          "id": "site-1775998829431",
+          "name": "hi168",
+          "url": "https://www.hi168.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.hi168.com"
+        }
+      ]
+    },
+    {
+      "id": "category-1775998015474",
+      "icon": "🤖",
+      "name": "AI token",
+      "order": 11,
+      "sites": [
+        {
+          "id": "site-1775999155685",
+          "name": "Fyra.im",
+          "url": "https://fyra.im/",
+          "description": "",
+          "icon": "https://fyra.im/assets/icon.png"
+        },
+        {
+          "id": "site-1775999198151",
+          "name": "cerebras（每日百万）",
+          "url": "https://cerebras.ai/",
+          "description": "",
+          "icon": "https://cdn.sanity.io/images/e4qjo92p/production/4176e884cf8c14f8c6bcb59fb9f3e332ac90497d-1000x1000.svg?w=512&h=512&fit=max&auto=format"
+        },
+        {
+          "id": "site-1775999236149",
+          "name": "openrouter",
+          "url": "https://openrouter.ai/",
+          "description": "（部分免费）",
+          "icon": "https://openrouter.ai/favicon.ico"
+        },
+        {
+          "id": "site-1775999256549",
+          "name": "anyrouter",
+          "url": "https://anyrouter.top/console",
+          "description": "每日百万",
+          "icon": "https://agentrouter.org/logo.png"
+        },
+        {
+          "id": "site-1778852765346",
+          "name": "agentrouter",
+          "url": "https://agentrouter.org/console",
+          "description": "",
+          "icon": "https://agentrouter.org/logo.png"
+        },
+        {
+          "id": "site-1775999382325",
+          "name": "kilo",
+          "url": "https://kilo.ai/",
+          "description": "",
+          "icon": "https://kilo.ai/favicon.ico"
+        },
+        {
+          "id": "site-1775999430748",
+          "name": "ollama",
+          "url": "https://ollama.com/settings/keys",
+          "description": "",
+          "icon": "https://ollama.com/public/ollama.png"
+        },
+        {
+          "id": "site-1776255454668",
+          "name": "硅基流动",
+          "url": "https://siliconflow.cn/pricing",
+          "description": "（部分免费）",
+          "icon": "https://siliconflow.cn/favicon.ico"
+        },
+        {
+          "id": "site-1776255533644",
+          "name": "魔搭社区",
+          "url": "https://modelscope.cn/",
+          "description": "（每日千次调用）",
+          "icon": "https://g.alicdn.com/sail-web/maas/2.13.52/favicon/128.ico"
+        },
+        {
+          "id": "site-1776256405466",
+          "name": "英伟达",
+          "url": "https://build.nvidia.com/explore/discover",
+          "description": "部分免费",
+          "icon": "https://www.nvidia.cn/favicon.ico"
+        },
+        {
+          "id": "site-1776600877461",
+          "name": "gitcode昇腾模型",
+          "url": "https://ai.gitcode.com/serverless-api",
+          "description": "（需每天签到但无限量）",
+          "icon": "https://www.faviconextractor.com/favicon/ai.gitcode.com"
+        },
+        {
+          "id": "site-1778823357351",
+          "name": "TinyFish",
+          "url": "https://agent.tinyfish.ai/api-keys",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1778823635358",
+          "name": "商汤日日新",
+          "url": "https://www.sensenova.cn/token-plan",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1780807779356",
+          "name": "ecomagent.in",
+          "url": "https://ecomagent.in",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ecomagent.in"
+        }
+      ]
+    },
+    {
+      "id": "dev-tools",
+      "name": "实用工具",
+      "icon": "🛠️",
+      "order": 12,
+      "sites": [
+        {
+          "id": "site-1776001370334",
+          "name": "AQBot AI桌面客户端",
+          "url": "https://app.aqbot.top/zh/",
+          "description": "",
+          "icon": "https://app.aqbot.top/favicon.ico"
+        },
+        {
+          "id": "site-1776001424414",
+          "name": "R悦读",
+          "url": "https://app.readifyai.com/library",
+          "description": "",
+          "icon": "https://app.readifyai.com/logo.png"
+        },
+        {
+          "id": "site-1776001469726",
+          "name": "飞速markdown",
+          "url": "https://flymd.llingfei.com/",
+          "description": "",
+          "icon": "https://flymd.llingfei.com/Flymdnew.png"
+        },
+        {
+          "id": "site-1776001537856",
+          "name": "云盘挂载器",
+          "url": "https://www.netmount.cn/",
+          "description": "",
+          "icon": "https://www.netmount.cn/_next/static/media/color.e0ec2e9a.svg"
+        },
+        {
+          "id": "site-1776047690122",
+          "name": "OpenList",
+          "url": "https://doc.oplist.org/",
+          "description": "",
+          "icon": "https://doc.oplist.org/favicon.svg"
+        },
+        {
+          "id": "site-1776047816050",
+          "name": "bilifish素材管家",
+          "url": "https://www.billfish.cn/",
+          "description": "",
+          "icon": "https://www.billfish.cn/favicon.ico"
+        },
+        {
+          "id": "site-1776047900689",
+          "name": "创作罐头",
+          "url": "https://www.czgts.cn/",
+          "description": "",
+          "icon": "https://lf-muse.czgts.cn/obj/goofy/pgcfe/muse/web/favicon.ico"
+        },
+        {
+          "id": "site-1776047938929",
+          "name": "PicList",
+          "url": "https://piclist.cn/app",
+          "description": "",
+          "icon": "https://piclist.cn/favicon.png"
+        },
+        {
+          "id": "site-1776048575599",
+          "name": "数据库链接",
+          "url": "https://github.com/qishibo/AnotherRedisDesktopManager",
+          "description": "",
+          "icon": "https://camo.githubusercontent.com/95d078811b69f957be425438a9665b37d24f642bc95920b3edb9b0e467cc85d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f7169736869626f2f696d672f6172646d2f3230323431313038313935383239342e706e67"
+        },
+        {
+          "id": "site-1781273930378",
+          "name": "touch-ai",
+          "url": "https://touch-ai.org/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/touch-ai.org"
+        },
+        {
+          "id": "site-1781539505970",
+          "name": "mindos",
+          "url": "https://mindos.you/#quickstart",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mindos.you"
+        },
+        {
+          "id": "site-1782405081077",
+          "name": "ios签名打包工具",
+          "url": "https://www.sign.lc/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.sign.lc"
+        },
+        {
+          "id": "site-1784362498887",
+          "name": "ai gist提示词管理",
+          "url": "https://getaigist.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/getaigist.com"
+        }
+      ]
+    },
+    {
+      "id": "category-1774510899116",
+      "icon": "☠️",
+      "name": "DDDD",
+      "order": 13,
+      "sites": [
+        {
+          "id": "site-1777970666347",
+          "name": "AI 小说创作工作台",
+          "url": "https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant",
+          "description": "",
+          "icon": "https://avatars.githubusercontent.com/u/191454658?s=48&v=4"
+        },
+        {
+          "id": "site-1780969267754",
+          "name": "青幕AI写作软件",
+          "url": "https://github.com/Mochocyang/QMAI",
+          "description": "有exe",
+          "icon": ""
+        },
+        {
+          "id": "site-1780709928573",
+          "name": "character-arc",
+          "url": "https://github.com/uu201/character-arc",
+          "description": "有exe",
+          "icon": ""
+        },
+        {
+          "id": "site-1777968720624",
+          "name": "novel-writer-style-cn",
+          "url": "https://github.com/lsg1103275794/novel-writer-style-cn",
+          "description": "",
+          "icon": "https://avatars.githubusercontent.com/u/164053805?s=48&v=4"
+        },
+        {
+          "id": "site-1778725141555",
+          "name": "webnovel-writer-opencode",
+          "url": "https://github.com/lujih/webnovel-writer-opencode",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969182696",
+          "name": "ai-novel-writer",
+          "url": "https://github.com/eliumusk/ai-novel-writer",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969359359",
+          "name": "NovelForge",
+          "url": "https://github.com/RhythmicWave/NovelForge",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969427087",
+          "name": "AI Novel Writer (AI小说家)",
+          "url": "https://github.com/kele-tao/AI_Novel",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969744542",
+          "name": "AI 小说工坊",
+          "url": "https://github.com/yangqi1309134997-coder/ai-novel-generator",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969862509",
+          "name": "AI自动创作小说工具",
+          "url": "https://github.com/Crossme0809/gpt-story-genius",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969982710",
+          "name": "自动小说生成工具",
+          "url": "https://github.com/YILING0013/AI_NovelGenerator",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777970345261",
+          "name": "51码字",
+          "url": "https://github.com/xiaoshengxianjun/51mazi",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777970528947",
+          "name": "AI 小说创作助手",
+          "url": "https://github.com/wfcz10086/AI-automatically-generates-novels",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777971680992",
+          "name": "ainovel-cli",
+          "url": "https://github.com/voocel/ainovel-cli",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777971776762",
+          "name": "柚子写作",
+          "url": "https://github.com/LittleOrange-i/Youzi-Write",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777971844240",
+          "name": "🎨 AI Novel Assistant",
+          "url": "https://github.com/suifengwudong/ai-novel-assistant",
+          "description": "基于智能体的小说创作助手",
+          "icon": ""
+        },
+        {
+          "id": "site-1777971924856",
+          "name": "AI Novel Generator 🤖📖",
+          "url": "https://github.com/xiemobiao/AI_NovelGenerator",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777972016912",
+          "name": "AI Novel Generator",
+          "url": "https://github.com/inyhow/ai-novel-generator",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777972129791",
+          "name": "✍️ Author ",
+          "url": "https://github.com/YuanShiJiLoong/author",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777972460342",
+          "name": "Author (本地版)",
+          "url": "https://github.com/mleafish/author",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777972770869",
+          "name": "AI Novel Editor",
+          "url": "https://github.com/inliver233/Ai-Novel-Editor",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777972841718",
+          "name": "青烛ai-novelist",
+          "url": "https://github.com/FlickeringLamp/ai-novelist",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777973166413",
+          "name": "🎭 MuMuAI小说创作工具",
+          "url": "https://github.com/ddys9621/MuMuAINovel",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1778733685238",
+          "name": "SKiLL",
+          "url": "https://github.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1778725179042",
+          "name": "oh-story-claudecode",
+          "url": "https://github.com/worldwonderer/oh-story-claudecode",
+          "description": "可在AQBOT安装",
+          "icon": ""
+        },
+        {
+          "id": "site-1777971626473",
+          "name": "Novel Control Station",
+          "url": "https://github.com/jingtai123/Novel-Control-Station-Skill",
+          "description": "把中文长篇小说创作，从一次性生成，升级成可控、可追踪、可持续推进的创作系统。",
+          "icon": ""
+        },
+        {
+          "id": "site-1778734058181",
+          "name": "webnovel-writer",
+          "url": "https://github.com/lingfengQAQ/webnovel-writer",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777968966992",
+          "name": "chinese-novelist-skill",
+          "url": "https://github.com/PenglongHuang/chinese-novelist-skill",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777971390041",
+          "name": "Novel Claude AI - 小说创作大师",
+          "url": "https://github.com/leenbj/novel-creator-skill",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777968568625",
+          "name": "分割",
+          "url": "https://github.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1777968587377",
+          "name": "MuMuAINovel",
+          "url": "https://github.com/xiamuceer-j/MuMuAINovel",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777970970866",
+          "name": "AI 智能网文创作系统",
+          "url": "https://github.com/15673312611/AI_NovelCraft-",
+          "description": "短篇工厂AI_NovelCraft-",
+          "icon": "⚡️"
+        },
+        {
+          "id": "site-1777969114679",
+          "name": "novel-kit",
+          "url": "https://github.com/t59688/novel-kit",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969257679",
+          "name": "daer-novel",
+          "url": "https://github.com/yuwangi/daer-novel",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969499350",
+          "name": "马良AI写作",
+          "url": "https://github.com/Deng-m1/MaliangAINovalWriter",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777969611838",
+          "name": "91写作",
+          "url": "https://github.com/ponysb/91Writing",
+          "description": "可短篇小说",
+          "icon": ""
+        },
+        {
+          "id": "site-1777970306164",
+          "name": "novelwriter",
+          "url": "https://github.com/Hurricane0698/novelwriter",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777970451588",
+          "name": "Arboris-Novel",
+          "url": "https://github.com/t59688/arboris-novel",
+          "description": "面向创作者的写作辅助工具",
+          "icon": ""
+        },
+        {
+          "id": "site-1777970610603",
+          "name": "AI一键生成长篇小说",
+          "url": "https://github.com/MaoXiaoYuZ/Long-Novel-GPT",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777971113874",
+          "name": "AI 驱动的小说转视频平台",
+          "url": "https://github.com/qzw881130/AI-NovelFlow",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1777972658870",
+          "name": "AI Novel Assistant (AI 小说创作助手)",
+          "url": "https://github.com/AI-Practical-Lab/ai-novel",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1777973099228",
+          "name": "AI小说生成",
+          "url": "https://github.com/xy9144/flutter-novel-main",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1778655817453",
+          "name": "do-write",
+          "url": "https://github.com/zhazhahehedian/do-write",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1778655828382",
+          "name": "inkos",
+          "url": "https://github.com/Narcooo/inkos",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1780709851871",
+          "name": "novel_web",
+          "url": "https://github.com/BaiSugar/novel_web",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "category-1776048233879",
+      "icon": "✈️",
+      "name": "H",
+      "order": 14,
+      "sites": [
+        {
+          "id": "site-1781605923492",
+          "name": "zmxoo.xyz",
+          "url": "https://zmxoo.xyz/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/zmxoo.xyz"
+        },
+        {
+          "id": "site-1781609160675",
+          "name": "MISUB",
+          "url": "https://mi.51sub.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mi.51sub.cc.cd"
+        },
+        {
+          "id": "site-1781609183444",
+          "name": "ONESUB",
+          "url": "https://one.51sub.cc.cd/dashboard",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781605991459",
+          "name": "VX代理客户端",
+          "url": "https://vx.5vnetwork.com/zh",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/vx.5vnetwork.com"
+        },
+        {
+          "id": "site-1776048321807",
+          "name": "hiddify",
+          "url": "https://hiddify.com/",
+          "description": "",
+          "icon": "https://hiddify.com/assets/ic_hiddify.png"
+        },
+        {
+          "id": "site-1779706671927",
+          "name": "Zephyr",
+          "url": "https://github.com/Juwan-Hwang/Zephyr",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "community",
+      "name": "社区论坛",
+      "icon": "👥",
+      "order": 15,
+      "sites": [
+        {
+          "id": "linuxdo",
+          "name": "Linux.do",
+          "url": "https://linux.do",
+          "description": "Linux与开源技术社区",
+          "icon": "/sitelogo/linux.do.ico"
+        },
+        {
+          "id": "nodeseek",
+          "name": "NodeSeek",
+          "url": "https://www.nodeseek.com",
+          "description": "极客技术社区",
+          "icon": "/sitelogo/www.nodeseek.com.ico"
+        },
+        {
+          "id": "52pojie",
+          "name": "吾爱破解",
+          "url": "https://www.52pojie.cn/",
+          "description": "软件安全与破解技术论坛",
+          "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
+          "id": "site-1776257520453",
+          "name": "github",
+          "url": "https://github.com/",
+          "description": "",
+          "icon": "https://github.githubassets.com/favicons/favicon.png"
+        },
+        {
+          "id": "site-1781605891148",
+          "name": "X",
+          "url": "https://x.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/x.com"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "name": "提示词反推",
+      "icon": "🎨",
+      "order": 16,
+      "sites": [
+        {
+          "id": "site-1777341511301",
+          "name": "imageprompt提示词反推",
+          "url": "https://imageprompt.org/zh",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/imageprompt.org"
+        },
+        {
+          "id": "site-1777341621197",
+          "name": "米线",
+          "url": "https://www.aimixian.cn/static/tools/prompt-reverse.html",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.aimixian.cn"
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "财经投资",
+      "icon": "💰",
+      "order": 17,
+      "sites": []
+    },
+    {
+      "id": "learning",
+      "name": "学习资源",
+      "icon": "📚",
+      "order": 18,
+      "sites": []
+    },
+    {
+      "id": "tools",
+      "name": "在线工具",
+      "icon": "⚙️",
+      "order": 19,
+      "sites": [
+        {
+          "id": "site-1776757939182",
+          "name": "扣子工作流",
+          "url": "https://www.coze.cn/",
+          "description": "",
+          "icon": "https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/coze-space/static/favicon2.ico"
+        },
+        {
+          "id": "site-1776758069030",
+          "name": "朱雀AI检测助手",
+          "url": "https://matrix.tencent.com/ai-detect/ai_gen",
+          "description": "腾讯朱雀AI检测助手",
+          "icon": "https://matrix.tencent.com/ai-detect/img/logo.e36e5a59.png"
+        },
+        {
+          "id": "site-1776758388917",
+          "name": "comfyUI",
+          "url": "https://www.comfy.org/zh-cn/",
+          "description": "通过在画布上连接节点，直观地构建AI 工作流。 与传统线性用户界面不同，ComfyUI 让您拥有全部的掌控力——在任何时候分支、重新混合和调整工作流的每个部分。",
+          "icon": "https://framerusercontent.com/images/3cNQMWKzIhIrQ5KErBm7dSmbd2w.png"
+        },
+        {
+          "id": "site-1776758471797",
+          "name": "wexflow",
+          "url": "https://wexflow.github.io/?lang=zh",
+          "description": "开源免费的现代化的工作流引擎\n包含跨平台工作流服务器，100 多个内置活动，以及强大的管理面板，用于管理您的工作流。",
+          "icon": "https://wexflow.github.io/favicon.png"
+        },
+        {
+          "id": "site-1776758638852",
+          "name": "dify",
+          "url": "https://dify.ai/zh/pricing",
+          "description": "开源的 LLM 应用开发平台，支持本地部署，提供可视化拖拽操作来构建 AI Agent 工作流。",
+          "icon": "https://framerusercontent.com/images/5DjvEqzd8wAijK6D0yeFokYMteE.svg"
+        },
+        {
+          "id": "site-1776758729228",
+          "name": "flow",
+          "url": "https://flow-like.com/zh/",
+          "description": "开源的工作流自动化平台，支持本地部署且对个人永久免费，适合处理数据管道和 AI 智能体。",
+          "icon": "https://flow-like.com/icon.webp"
+        },
+        {
+          "id": "site-1776759242971",
+          "name": "N8N",
+          "url": "https://n8n.io/",
+          "description": "人工智能代理与工作流程",
+          "icon": "https://n8n.io/favicon.ico"
+        },
+        {
+          "id": "site-1776759576986",
+          "name": "make",
+          "url": "https://www.make.com/",
+          "description": "可视化 AI 工作流程自动化，让团队掌控 ",
+          "icon": "https://www.make.com/en/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "entertainment",
+      "name": "娱乐休闲",
+      "icon": "🎮",
+      "order": 20,
+      "sites": [
+        {
+          "id": "bilibili",
+          "name": "哔哩哔哩",
+          "url": "https://www.bilibili.com",
+          "description": "弹幕视频网站",
+          "icon": "/sitelogo/www.bilibili.com.ico"
+        },
+        {
+          "id": "youtube",
+          "name": "YouTube",
+          "url": "https://www.youtube.com",
+          "description": "视频分享平台",
+          "icon": "/sitelogo/www.youtube.com.ico"
+        },
+        {
+          "id": "site-1775999630245",
+          "name": "R悦读",
+          "url": "https://app.readifyai.com/library",
+          "description": "",
+          "icon": "https://app.readifyai.com/favicon.ico"
+        },
+        {
+          "id": "site-1776257660573",
+          "name": "aniyomi",
+          "url": "https://aniyomi.org/",
+          "description": "",
+          "icon": "https://aniyomi.org/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "office",
+      "name": "办公协作",
+      "icon": "💼",
+      "order": 21,
+      "sites": [
+        {
+          "id": "site-1777797265344",
+          "name": "思源笔记",
+          "url": "https://b3log.org/siyuan/?lang=cn",
+          "description": "",
+          "icon": "https://b3log.org/images/brand/siyuan-128.png"
+        },
+        {
+          "id": "site-1777797106817",
+          "name": "Dinox",
+          "url": "https://dinoai.fun/",
+          "description": "在线笔记",
+          "icon": "https://www.faviconextractor.com/favicon/dinoai.fun"
+        },
+        {
+          "id": "site-1777797185800",
+          "name": "幕布",
+          "url": "https://mubu.com/home",
+          "description": "",
+          "icon": "https://assets.mubu.com/favicon.ico"
+        },
+        {
+          "id": "site-1777797357359",
+          "name": "飞速MarkDown",
+          "url": "https://flymd.llingfei.com/",
+          "description": "",
+          "icon": "https://flymd.llingfei.com/Flymdnew.png"
+        },
+        {
+          "id": "site-1777798078189",
+          "name": "blinko",
+          "url": "https://blinko.space/zh-CN",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/blinko.space"
+        },
+        {
+          "id": "site-1780887464673",
+          "name": "redbox",
+          "url": "https://redbox.ziz.hk/",
+          "description": "小红书创作软件",
+          "icon": "https://www.faviconextractor.com/favicon/redbox.ziz.hk"
+        },
+        {
+          "id": "site-1780887588512",
+          "name": "小红书AI工具小帮手",
+          "url": "https://mynotehelper.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mynotehelper.com"
+        },
+        {
+          "id": "site-1781157995703",
+          "name": "章鱼排版",
+          "url": "https://zhangyupaiban.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/zhangyupaiban.com"
+        }
+      ]
+    },
+    {
+      "id": "category-1778491113484",
+      "icon": "💻",
+      "name": "编程软件",
+      "order": 22,
+      "sites": [
+        {
+          "id": "site-1778491243890",
+          "name": "trae",
+          "url": "https://www.trae.cn/",
+          "description": "字节跳动开发",
+          "icon": ""
+        },
+        {
+          "id": "site-1778491275306",
+          "name": "trae网页版",
+          "url": "https://solo.trae.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1778491161098",
+          "name": "Codeium",
+          "url": "https://codeium.com",
+          "description": "特点：无限免费使用（个人开发者），代码补全速度快、准确，支持40+语言，集成VS Code、JetBrains等主流IDE。",
+          "icon": ""
+        },
+        {
+          "id": "site-1778491212202",
+          "name": "通义灵码",
+          "url": "https://lingma.aliyun.com/",
+          "description": "特点：个人免费使用，支持代码智能生成、智能问答、多文件修改、编程智能体。",
+          "icon": ""
+        },
+        {
+          "id": "site-1778503638030",
+          "name": "GitHub Copilot",
+          "url": "https://github.com/features/copilot",
+          "description": "特点：每月2000次补全 + 50次聊天，集成VS Code、JetBrains等。",
+          "icon": ""
+        },
+        {
+          "id": "site-1778503687329",
+          "name": "Continue.dev",
+          "url": "https://www.continue.dev/",
+          "description": "（开源，完全免费）特点：VS Code/JetBrains扩展，支持本地模型（Ollama）或各种API密钥，完全开源可自定。",
+          "icon": ""
+        },
+        {
+          "id": "site-1778503740574",
+          "name": "Amazon Q Developer（AWS）",
+          "url": "https://aws.amazon.com/cn/q/developer/",
+          "description": "特点：免费版无限代码补全 + 每月50次Agent请求。",
+          "icon": ""
+        },
+        {
+          "id": "site-1778503778374",
+          "name": "Gemini Code Assist（Google）",
+          "url": "https://codeassist.google/",
+          "description": "特点：慷慨免费额度（每日数千请求），支持VS Code/JetBrains。",
+          "icon": ""
+        },
+        {
+          "id": "site-1778503814246",
+          "name": "Cursor 免费版",
+          "url": "https://cursor.com/",
+          "description": "特点：基于VS Code的AI IDE，每月2000次补全 + 有限高级请求。",
+          "icon": ""
+        },
+        {
+          "id": "site-1778503882998",
+          "name": "CodeGeeX（智谱AI/清华大学）",
+          "url": "https://codegeex.cn/",
+          "description": "开源，支持中英双语，代码补全+解释",
+          "icon": ""
+        },
+        {
+          "id": "site-1778734778386",
+          "name": "opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "開源 AI 編碼代理\n內建免費模型，或連接任意供應商的任意模型，",
+          "icon": ""
+        },
+        {
+          "id": "site-1778769981361",
+          "name": "codex",
+          "url": "https://openai.com/zh-Hans-CN/codex/",
+          "description": "openai旗下产品",
+          "icon": "https://images.ctfassets.net/kftzwdyauwt9/YgXvGzKvVcDvpJGOFyroe/777616dd860276400c9c955688dce373/codex-app.png.png?w=270&q=100&fm=webp"
+        },
+        {
+          "id": "site-1778898256497",
+          "name": "claude",
+          "url": "https://claude.com/download",
+          "description": "claude+cc-switch",
+          "icon": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/689f4a9aff1f63fde75cf733_favicon.png"
+        },
+        {
+          "id": "site-1778898340033",
+          "name": "cc-switch",
+          "url": "https://ccswitch.io/zh/",
+          "description": "claude+cc-switch",
+          "icon": "https://ccswitch.io/assets/cc-switch-logo-BPrI77SG.png"
+        },
+        {
+          "id": "site-1780807861652",
+          "name": "echobird",
+          "url": "https://echobird.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/echobird.ai"
+        },
+        {
+          "id": "site-1781620915271",
+          "name": "ccMesh",
+          "url": "https://github.com/VkRainB/ccMesh",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1782362698509",
+          "name": "CLI-Manager",
+          "url": "https://github.com/dark-hxx/CLI-Manager",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1780989380442",
+          "name": "cc-desktop-switch",
+          "url": "https://github.com/lonr-6/cc-desktop-switch",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1780808243012",
+          "name": "Codex++",
+          "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1780400560321",
+          "name": "skill-switch",
+          "url": "https://github.com/DargonLee/skill-switch",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1779634810417",
+          "name": "哪吒",
+          "url": "https://nezha.hanshutx.com/",
+          "description": "",
+          "icon": "\thttps://nezha.hanshutx.com/logo.png"
+        },
+        {
+          "id": "site-1779634969273",
+          "name": "paseo",
+          "url": "https://paseo.sh/",
+          "description": "",
+          "icon": "https://paseo.sh/logo.svg"
+        },
+        {
+          "id": "site-1779635038256",
+          "name": "sidex",
+          "url": "https://github.com/Sidenai/sidex",
+          "description": "VS Code 是在 Tauri 的基础上重新构建的。架构相同，但体积缩小了 96%。即将进行早期发布。",
+          "icon": ""
+        },
+        {
+          "id": "site-1779635094209",
+          "name": "SQL 客户端",
+          "url": "https://sjjian.github.io/openhare/",
+          "description": "基于人工智能的桌面 SQL 客户端。跨平台使用，采用 Flutter 技术构建。",
+          "icon": "https://sjjian.github.io/openhare/logo.png"
+        },
+        {
+          "id": "site-1779706496512",
+          "name": "multica",
+          "url": "https://multica.ai/",
+          "description": "Multica 是一个开源平台，将编码 智能体 变成真正的队友。分配任务、跟踪进度、积累技能——在一个地方管理你的人类 + 智能体 团队。",
+          "icon": "https://multica.ai/favicon.svg"
+        }
+      ]
+    },
+    {
+      "id": "category-1781530224086",
+      "icon": "💻",
+      "name": "AI短剧",
+      "order": 23,
+      "sites": [
+        {
+          "id": "site-1781530296326",
+          "name": "巨目禄",
+          "url": "https://video.jurilu.com/index",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/video.jurilu.com"
+        },
+        {
+          "id": "site-1781530537917",
+          "name": "libTV",
+          "url": "https://www.liblib.tv/",
+          "description": "哩布哩布AI",
+          "icon": "https://www.faviconextractor.com/favicon/www.liblib.tv"
+        },
+        {
+          "id": "site-1781530687284",
+          "name": "seedance2.0",
+          "url": "https://seed.bytedance.com/zh/seedance2_0",
+          "description": "字节跳动即梦AI",
+          "icon": "https://www.faviconextractor.com/favicon/seed.bytedance.com"
+        },
+        {
+          "id": "site-1781531251051",
+          "name": "可灵",
+          "url": "https://klingai.com/",
+          "description": "快手可灵AI",
+          "icon": ""
+        },
+        {
+          "id": "site-1781531331443",
+          "name": "海螺视频",
+          "url": "https://hailuoai.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/hailuoai.com"
+        },
+        {
+          "id": "site-1781531368938",
+          "name": "VIDU",
+          "url": "https://www.vidu.cn/",
+          "description": "生数科技与清华大学联合开发的AI视频生成工具",
+          "icon": "https://www.faviconextractor.com/favicon/www.vidu.cn"
+        },
+        {
+          "id": "site-1781531417371",
+          "name": "runwayml",
+          "url": "https://runwayml.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/runwayml.com"
+        },
+        {
+          "id": "site-1781531449434",
+          "name": "pika",
+          "url": "https://pika.art/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/pika.art"
+        },
+        {
+          "id": "site-1781531500770",
+          "name": "pixverse",
+          "url": "https://app.pixverse.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/app.pixverse.ai"
+        },
+        {
+          "id": "site-1781531562818",
+          "name": "Stable Video",
+          "url": "https://stability.ai/stable-video",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/stability.ai"
+        },
+        {
+          "id": "site-1781531699346",
+          "name": "lumen5",
+          "url": "https://lumen5.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/lumen5.com"
+        },
+        {
+          "id": "site-1781531744225",
+          "name": "字节跳动即创",
+          "url": "https://aic.oceanengine.com/login",
+          "description": "字节跳动即创",
+          "icon": "https://www.faviconextractor.com/favicon/aic.oceanengine.com"
+        },
+        {
+          "id": "site-1781531836482",
+          "name": "讯飞绘镜",
+          "url": "https://typemovie.art/landing/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/typemovie.art"
+        },
+        {
+          "id": "site-1781531871530",
+          "name": "度加创作工具",
+          "url": "https://aigc.baidu.com/home",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/aigc.baidu.com"
+        },
+        {
+          "id": "site-1781531919473",
+          "name": "白日梦AI",
+          "url": "https://aibrm.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/aibrm.com"
+        },
+        {
+          "id": "site-1781531962041",
+          "name": "拍我AI",
+          "url": "https://pai.video/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/pai.video"
+        }
+      ]
+    }
+  ],
+  "title": "dog导航🐶",
+  "search": "bing",
+  "icp": ""
+}
