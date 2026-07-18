@@ -1193,6 +1193,20 @@ export const mockData = {
           "url": "https://getaigist.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/getaigist.com"
+        },
+        {
+          "id": "site-1784362556622",
+          "name": "小书匠",
+          "url": "https://soft.xiaoshujiang.com/",
+          "description": "",
+          "icon": "https://soft.xiaoshujiang.com/icons/icon-144x144.png?v=240b4ded912635db5186d3c993f424e1"
+        },
+        {
+          "id": "site-1784362588894",
+          "name": "open minis",
+          "url": "https://openminis.app/",
+          "description": "",
+          "icon": "https://openminis.app/icon-light.png"
         }
       ]
     },
