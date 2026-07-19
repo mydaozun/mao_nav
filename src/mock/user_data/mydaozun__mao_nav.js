@@ -58,8 +58,8 @@ export const mockData = {
         },
         {
           "id": "site-1782734968406",
-          "name": "rss",
-          "url": "https://rss.iosapp.cc.cd/",
+          "name": "小红书图片生成器",
+          "url": "https://ps.iosapp.cc.cd/",
           "description": "",
           "icon": ""
         },
