@@ -647,7 +647,7 @@ export const mockData = {
         {
           "id": "site-1775999034895",
           "name": "CF-workers-SUB",
-          "url": "https://cloud.52cbg.cn/adminroot",
+          "url": "https://cf.51sub.cc.cd/adminroot",
           "description": "",
           "icon": ""
         },
