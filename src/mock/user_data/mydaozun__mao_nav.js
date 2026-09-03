@@ -949,9 +949,9 @@ export const mockData = {
         {
           "id": "site-1781155200445",
           "name": "拾光集",
-          "url": "https://mb.52cbg.cn/",
+          "url": "https://mb.52dh.cc.cd",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/mb.52cbg.cn"
+          "icon": "https://www.faviconextractor.com/favicon/mb.52dh.cc.cd"
         },
         {
           "id": "site-1781155224684",
