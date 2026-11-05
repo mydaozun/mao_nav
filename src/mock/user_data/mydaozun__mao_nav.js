@@ -557,6 +557,13 @@ export const mockData = {
           "url": "https://github.com/containrrr/watchtower",
           "description": "环境参数：WATCHTOWER_NO_STARTUP_MESSAGE;WATCHTOWER_CLEANUP=true;TZ=Asia/Shanghai\n命令参数：--interval 3600",
           "icon": "https://containrrr.dev/watchtower/images/favicon.ico"
+        },
+        {
+          "id": "site-1793881698963",
+          "name": "br地震预警",
+          "url": "https://dz.1penel.cc.cd/",
+          "description": "30010",
+          "icon": ""
         }
       ]
     },
