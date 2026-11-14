@@ -576,9 +576,9 @@ export const mockData = {
         {
           "id": "site-1775998677503",
           "name": "今日热榜",
-          "url": "https://top.52cbg.cn/",
+          "url": "https://top.1penel.cc.cd",
           "description": "",
-          "icon": "https://top.52cbg.cn/favicon.ico?favicon.6514833f.ico"
+          "icon": "https://top.1penel.cc.cd/favicon.ico?favicon.6514833f.ico"
         },
         {
           "id": "site-1775998699728",
@@ -590,21 +590,21 @@ export const mockData = {
         {
           "id": "site-1775998745432",
           "name": "LunaTV",
-          "url": "https://tv.52cbg.cn/login?redirect=%2F",
+          "url": "https://tv.1penel.cc.cd/login?redirect=%2F",
           "description": "",
-          "icon": "https://tv.52cbg.cn/icons/icon-192x192.png"
+          "icon": "https://tv.1penel.cc.cd/icons/icon-192x192.png"
         },
         {
           "id": "site-1775998759111",
           "name": "MoonTv",
-          "url": "https://moontv.52cbg.cn/login?redirect=%2F",
+          "url": "https://moontv.1penel.cc.cd/login?redirect=%2F",
           "description": "",
-          "icon": "https://moontv.52cbg.cn/icons/icon-192x192.png"
+          "icon": "https://moontv.1penel.cc.cd/icons/icon-192x192.png"
         },
         {
           "id": "site-1775998772271",
           "name": "LunaTv",
-          "url": "https://decotv.52cbg.cn/login?redirect=%2F",
+          "url": "https://decotv.1penel.cc.cd/login?redirect=%2F",
           "description": "",
           "icon": ""
         },
