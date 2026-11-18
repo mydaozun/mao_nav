@@ -692,6 +692,13 @@ export const mockData = {
           "url": "https://pool.51sub.cc.cd/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1794967653600",
+          "name": "软件分发",
+          "url": "https://win.iosapp.cc.cd/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
